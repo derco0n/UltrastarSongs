@@ -1,9 +1,10 @@
 # UltrastarSongs
 This is a collection of Songfiles for the Opensource-Karaoke-Game Ultrastar ( https://github.com/UltraStar-Deluxe ).
 
-Due to legal reasons, this will just contain the .txt-files which are used by the software to determine timings and pitched but won't contain any audio or video files.
+Due to legal reasons, this will just contain the .txt-files which are used by the software to determine timings and pitched but won't contain any audio or video filess.
 
 However you might be able to provide your own audio/video as most of them can be found around the internet on sites like youtube.
+You're responsible for staying legal. Don't blame me if you break your local law.
 
 The following linux-commands might come in handy for this:
 
