@@ -1,0 +1,369 @@
+#TITLE:Yggdrasil
+#ARTIST:Brothers of Metal
+#LANGUAGE:English
+#EDITION:Official
+#GENRE:Metal
+#YEAR:2018
+#CREATOR:LDD
+#MP3:BROTHERS OF METAL - Yggdrasil_ Official.avi.mp3
+#VIDEO:BROTHERS OF METAL - Yggdrasil_ Official.avi
+#BPM:87.00
+#GAP:16345
+: 0 1 1 Ri
+: 2 1 1 sing
+: 4 1 1  up
+: 8 1 1  from
+: 10 1 1  a
+: 12 1 1  day
+: 15 1 1  of
+: 17 3 1  plun
+: 21 3 1 der
+- 27
+: 30 1 1 The
+: 32 1 1  ale
+: 34 1 1  of
+: 36 1 1  yes
+: 38 1 1 ter
+: 39 1 1 day
+: 43 1 1  has
+: 44 1 1  gone
+: 48 1 1  down
+: 50 1 1  un
+: 54 1 1 der
+- 58
+: 62 1 1 The
+: 64 1 1  bat
+: 66 1 1 tle
+: 68 1 1 field
+: 71 1 1  a
+: 74 1 1 waits
+: 76 1 1  my
+: 79 1 1  soul
+: 87 1 1  to
+: 89 1 1  O
+: 93 7 1 din
+- 114
+: 128 1 1 Thor
+: 132 1 1  guide
+: 136 1 1  me
+: 140 1 1  through
+: 144 1 1  my
+: 146 1 1  batt
+: 150 1 1 les
+- 155
+: 160 1 1 Lead
+: 162 1 1  me
+: 164 3 1  home
+: 170 1 1  (to
+: 175 1 1  As
+: 177 1 1 gard)
+- 185
+: 192 1 1 The
+: 194 1 1  vic
+: 196 1 1 tori
+: 198 1 1 ous
+: 200 1 1  will
+: 205 1 1  rise
+: 208 1 1  to
+: 210 1 1  the
+: 213 1 1  glory
+: 214 1 1  of
+: 216 1 1  the
+: 220 27 1  gods
+- 251
+: 256 1 1 Rise
+: 258 1 1  above
+: 259 1 1  the
+: 264 1 1  moun
+: 266 1 1 tains
+- 269
+: 272 1 1 Light
+: 275 1 1  a
+: 277 1 1  fire
+: 279 1 1  in
+: 282 1 1  the
+: 284 1 1  sky
+- 286
+: 288 1 1 For
+: 290 1 1  the
+: 292 1 1  blood
+: 294 1 1  is
+: 296 1 1  running
+: 300 1 1  still
+- 303
+: 306 1 1 From
+: 308 1 1  the
+: 309 1 1  roots
+: 310 1 1  of
+: 312 1 1  Ygg
+: 314 1 1 dra
+: 316 1 1 sil
+- 318
+: 320 1 1 Rise
+: 322 1 1  above
+: 324 1 1  the
+: 328 1 1  moun
+: 330 1 1 tains
+- 333
+: 336 1 1 Light
+: 338 1 1  a
+: 339 1 1  fire
+: 342 1 1  in
+: 344 1 1  the
+: 346 1 1  sky
+- 349
+: 352 1 1 Car
+: 354 1 1 ry
+: 355 1 1  me
+: 360 1 1  to
+: 362 1 1  the
+: 364 1 1  hill
+- 368
+: 371 1 1 To
+: 372 1 1  the
+: 374 1 1  top
+: 376 1 1  of
+: 378 1 1  Ygg
+: 380 1 1 dra
+: 381 1 1 sil
+- 399
+: 417 1 1 In
+: 418 1 1  the
+: 420 1 1  hour
+: 424 1 1  of
+: 426 1 1  fi
+: 430 1 1 nal
+: 434 1 1  judge
+: 437 1 1 ment
+- 443
+: 448 1 1 All
+: 452 1 1 fath
+: 454 1 1 er
+: 458 1 1  lead
+: 462 1 1  my
+: 466 1 1  way
+- 473
+: 480 1 1 When
+: 482 1 1  the
+: 484 1 1  fire
+: 486 1 1  of
+: 488 1 1  war
+: 490 1 1  reign
+- 497
+: 504 1 1 i
+: 506 1 1  will
+: 508 1 1  watch
+: 512 1 1  my
+: 516 1 1  bro
+: 518 1 1 thers
+: 522 1 1  fall
+- 533
+: 544 1 1 Our
+: 548 1 1  names
+: 552 1 1  will
+: 554 1 1  be
+: 556 1 1  long
+: 560 1 1  for
+: 562 1 1 got
+: 566 1 1 ten
+- 571
+: 576 1 1 We
+: 578 1 1  live
+: 583 1 1  o~n
+: 586 1 1  for
+: 588 1 1 ever
+- 598
+: 608 1 1 The
+: 610 1 1  vic
+: 612 1 1 tori
+: 615 1 1 ous
+: 618 1 1  will
+: 620 1 1  rise
+: 624 1 1  to
+: 626 1 1  the
+: 628 1 1  glory
+: 630 1 1  of
+: 632 1 1  the
+: 636 30 1  go~~ds
+- 669
+: 672 1 1 Rise
+: 674 1 1  above
+: 677 1 1  the
+: 679 1 1  moun
+: 682 1 1 tains
+- 685
+: 688 1 1 Light
+: 690 1 1  a
+: 692 1 1  fire
+: 696 1 1  in
+: 698 1 1  the
+: 700 1 1  sky
+- 702
+: 704 1 1 For
+: 706 1 1  the
+: 708 1 1  blood
+: 711 1 1  is
+: 713 1 1  run
+: 716 1 1 ning
+: 718 1 1  still
+- 720
+: 722 1 1 from
+: 724 1 1  the
+: 726 1 1  roots
+: 728 1 1  of
+: 730 1 1  Ygg
+: 732 1 1 dra
+: 733 1 1 sil
+- 735
+: 736 1 1 Rise
+: 738 1 1  above
+: 739 1 1  the
+: 744 1 1  moun
+: 746 1 1 tains
+- 749
+: 752 1 1 Light
+: 754 1 1  a
+: 755 1 1  fire
+: 758 1 1  in
+: 761 1 1  the
+: 764 1 1  sky
+- 766
+: 768 1 1 Car
+: 769 1 1 ry
+: 772 1 1  me~
+: 776 1 1  to
+: 778 1 1  the
+: 780 1 1  hill
+- 783
+: 786 1 1 To
+: 788 1 1  the
+: 790 1 1  top
+: 791 1 1  of
+: 792 1 1  Ygg
+: 795 1 1 dra
+: 797 1 1 sil
+- 880
+: 960 1 1 In
+: 962 1 1  the
+: 964 1 1  dust
+: 968 1 1  I
+: 970 1 1  swore
+: 974 1 1  my
+: 978 1 1  hat
+: 982 1 1 red
+- 986
+: 990 1 1 From
+: 992 1 1  see
+: 994 1 1 ing
+: 996 1 1  unborn
+: 1002 1 1  chil
+: 1006 1 1 dren
+: 1010 5 1  die
+- 1018
+: 1022 1 1 The
+: 1024 1 1  moth
+: 1026 1 1 ers
+: 1028 1 1  weaping
+: 1034 1 1  wakes
+: 1037 1 1  my
+: 1041 4 1  sword
+: 1048 1 1  for
+: 1050 2 1  ven
+: 1053 2 1 gean
+: 1057 2 1 ce
+- 1074
+: 1089 1 1 I
+: 1092 2 1  ride
+: 1096 2 1  into
+: 1099 3 1  in
+: 1104 1 1 fi
+: 1109 1 1 ni
+: 1112 1 1 ty
+- 1115
+: 1118 1 1 And
+: 1120 1 1  as
+: 1123 1 1  I
+: 1124 4 1  fa~ll
+: 1130 1 1  I
+: 1132 4 1  rise
+- 1144
+: 1152 1 1 The
+: 1154 1 1  vic
+: 1156 1 1 to
+: 1158 1 1 ri
+: 1160 1 1 ous
+: 1162 1 1  will
+: 1164 3 1  rise
+: 1168 1 1  to
+: 1170 1 1  the
+- 1172
+: 1173 1 1 glory
+: 1176 1 1  of
+: 1178 1 1  the
+: 1180 28 1  go~~ds
+- 1212
+: 1216 1 1 Rise
+: 1218 1 1  above
+: 1220 1 1  the
+: 1224 1 1  moun
+: 1226 1 1 tains
+- 1229
+: 1232 1 1 Light
+: 1234 1 1  a
+: 1235 1 1  fire
+: 1240 1 1  in
+: 1242 1 1  the
+: 1244 2 1  sky
+- 1247
+: 1248 1 1 For
+: 1250 1 1  the
+: 1252 1 1  blood
+: 1255 1 1  is
+: 1256 1 1  run
+: 1259 1 1 ning
+: 1261 3 1  still
+- 1265
+: 1266 1 1 From
+: 1266 1 1  the
+: 1267 1 1  roots
+: 1270 1 1  of
+: 1272 1 1  Ygg
+: 1274 1 1 dra
+: 1276 1 1 sil
+- 1278
+: 1280 1 1 Rise
+: 1282 1 1  above
+: 1283 1 1  the
+: 1288 1 1  moun
+: 1290 1 1 tains
+- 1293
+: 1296 1 1 Light
+: 1298 1 1  a
+: 1299 1 1  fire
+: 1304 1 1  in
+: 1306 1 1  the
+: 1308 1 1  sky
+- 1310
+: 1311 1 1 Car
+: 1314 1 1 ry
+: 1316 1 1  me
+: 1320 1 1  to
+: 1322 1 1  the
+: 1324 3 1  hill
+- 1328
+: 1330 1 1 To
+: 1331 1 1  the
+: 1334 1 1  top
+: 1334 1 1  of
+: 1336 1 1  Ygg
+: 1338 1 1 dra
+: 1340 1 1 sil
+- 1368
+: 1395 1 1 To
+: 1396 1 1  the
+: 1398 1 1  top
+: 1400 1 1  of
+: 1401 1 1  Ygg
+: 1403 1 1 dra
+: 1405 1 1 sil
+E
