@@ -1,0 +1,342 @@
+#TITLE:Wenn die Eegel Fallen
+#ARTIST:Lyries
+#LANGUAGE:German
+#GENRE:Rock
+#YEAR:2012
+#CREATOR:LDD
+#MP3:LYRIEL- Wenn Die Engel Fallen_Official.mp3
+#VIDEO:LYRIEL- Wenn Die Engel Fallen_Official.avi
+#BPM:152.00
+#GAP:10746
+: 0 2 7 Wärst
+: 4 1 7  Du
+: 6 2 7  hier
+: 10 1 7  auch
+: 13 1 7  wenn
+: 15 1 7  die
+: 19 1 7  Ste
+: 22 1 7 rne
+: 26 1 7  von
+: 29 1 7  uns
+: 32 6 7  geh'n
+- 42
+: 47 1 7 Und
+: 49 1 7  je
+: 52 2 7 ne
+: 56 1 7  Fun
+: 59 1 7 ken
+: 63 1 7  nur
+: 67 1 7  im
+: 69 1 7  Schwei
+: 73 1 7 gen
+: 78 1 7  über
+: 80 1 7 le
+: 84 1 7 ben
+- 91
+: 97 1 7 Wärst
+: 99 1 7  Du
+: 103 1 7  hier
+: 107 1 7  auch
+: 110 1 7  wenn
+: 114 1 7  der
+: 117 1 7  Re
+: 120 1 7 gen
+: 123 1 7  uns
+: 126 1 7  ver
+: 130 1 7 gisst
+- 137
+: 143 1 7 Und
+: 146 1 7  die
+: 149 1 7  Er
+: 153 1 7 in
+: 156 1 7 ne
+: 159 1 7 rung
+: 162 1 7  im
+: 165 1 7  Sand
+: 168 1 7  ver
+: 171 1 7 lo
+: 175 1 7 ren
+: 178 1 7  ist
+- 187
+: 195 1 7 Singst
+: 197 1 7  Du
+: 199 1 7  mir
+: 201 1 7  noch
+: 203 1 7  die
+: 206 1 7  Me
+: 208 1 7 lo
+: 211 1 7 die
+- 215
+: 219 1 7 Lie
+: 221 1 7 der
+: 223 1 7  über
+: 225 1 7  Tag
+: 229 1 7  und
+: 234 1 7  Nacht
+- 238
+: 242 1 7 Eine
+: 244 1 7  Me
+: 249 1 7 lo
+: 252 1 7 dei
+: 255 1 7 poe
+: 257 1 7 sie
+- 263
+: 266 1 7 Und
+: 270 1 7  mir
+: 274 1 7  sagst
+- 283
+: 292 1 7 Wenn
+: 295 1 7  die
+: 299 1 7  En
+: 304 1 7 gel
+: 307 6 7  fall'n
+: 316 1 7  bin
+: 319 1 7  ich
+: 323 7 7  hier
+- 335
+: 340 1 7 Steh'
+: 344 1 7  mit
+: 348 2 7  Tat
+: 352 1 7  und
+: 356 5 7  Wort
+: 364 1 7  hier
+: 368 1 7  bei
+: 371 7 7  dir
+- 383
+: 388 1 7 Bis
+: 392 1 7  zum
+: 396 2 7  letz
+: 400 1 7 ten
+: 404 5 7  Ort
+: 412 1 7  folg'
+: 416 1 7  ich
+: 420 6 7  dir
+- 428
+: 430 2 7 Ich
+: 441 14 7  bi~n
+: 456 1 7  hier
+: 474 2 7  hier
+: 478 1 7  bei
+: 481 1 7  dir
+- 533
+: 584 1 7 Blieb
+: 587 1 7  der
+: 590 1 7  Re
+: 595 1 7 gen
+: 597 1 7 bo
+: 600 1 7 gen
+: 603 1 7  Schat
+: 606 1 7 ten
+: 609 1 7 fan
+: 612 1 7 ta
+: 615 1 7 sie
+- 624
+: 632 1 7 Ein
+: 634 1 7  jeder
+: 638 1 7  Mor
+: 641 1 7 gen
+: 644 1 7  bloß
+: 650 1 7  ein
+: 652 1 7  Hauch
+: 655 1 7  von
+: 658 1 7  Iro
+: 661 1 7 nie
+- 671
+: 680 1 7 Weck
+: 683 1 7  mich
+: 687 1 7  auf
+: 690 1 7  wenn
+: 693 1 7  ich
+: 696 1 7  vor
+: 699 1 7  bö
+: 704 1 7 sen
+: 707 1 7  Träu
+: 711 1 7 men
+: 713 1 7  flieh
+- 718
+: 722 1 7 Und
+: 724 1 7  Nichts
+: 735 1 7  mehr
+: 746 1 7  blieb
+: 765 1 7  und
+: 766 1 7  Nichts
+: 769 1 7  mehr
+: 773 1 7  blieb
+- 776
+: 778 1 7 Singst
+: 780 1 7  Du
+: 782 1 7  mir
+: 785 1 7  noch
+: 787 1 7  die
+: 790 1 7  Me
+: 792 1 7 lo
+: 794 1 7 die
+- 798
+: 802 1 7 Lie
+: 804 1 7 der
+: 806 1 7  über
+: 809 1 7  Tag
+: 813 1 7  und
+: 817 1 7  Nacht
+- 822
+: 827 1 7 Eine
+: 830 1 7  Me
+: 832 1 7 lo
+: 835 1 7 dei
+: 838 1 7 poe
+: 841 1 7 sie
+- 846
+: 851 1 7 Und
+: 854 1 7  mir
+: 858 1 7  sagst
+- 867
+: 876 1 7 Wenn
+: 879 1 7  die
+: 883 1 7  En
+: 887 1 7 gel
+: 891 1 7  fall'n
+: 900 1 7  bin
+: 903 1 7  ich
+: 907 1 7  hier
+- 915
+: 923 1 7 Steh'
+: 927 1 7  mit
+: 932 1 7  Tat
+: 935 1 7  und
+: 940 1 7  Wort
+: 948 1 7  hier
+: 952 1 7  bei
+: 956 1 7  dir
+- 964
+: 972 1 7 Bis
+: 976 1 7  zum
+: 980 1 7  letz
+: 984 1 7 ten
+: 988 1 7  Ort
+: 997 1 7  folg'
+: 1000 1 7  ich
+: 1004 1 7  dir
+- 1010
+: 1015 1 7 Ich
+: 1025 13 7  bi~n
+: 1041 1 7  hier
+: 1058 1 7  hier
+: 1062 1 7  bei
+: 1066 1 7  dir
+- 1115
+: 1164 1 7 Und
+: 1165 1 7  bre
+: 1168 1 7 chen
+: 1170 1 7  unsr'e
+: 1175 1 7  Schilde
+- 1179
+: 1183 1 7 Im
+: 1187 1 7  sturm
+: 1191 1 7 tie
+: 1194 1 7 fen
+: 1198 1 7  Meer
+- 1203
+: 1208 1 7 Doch
+: 1213 1 7  treu
+: 1216 1 7  uns'rem
+: 1223 1 7  Bun
+: 1227 1 7 de
+- 1229
+: 1231 1 7 So
+: 1235 1 7  gleich
+: 1239 1 7  le
+: 1243 1 7 gen
+: 1247 1 7 där
+- 1254
+: 1260 1 7 Wir
+: 1263 1 7  spren
+: 1265 1 7 gen
+: 1268 1 7  all'
+: 1272 1 7  die
+: 1275 1 7  Gren
+: 1277 1 7 zen
+- 1279
+: 1280 1 7 als
+: 1284 1 7  wenn
+: 1288 1 7  dort
+: 1292 1 7  nichts
+: 1296 1 7  wär'
+- 1302
+: 1307 1 7 Denn
+: 1309 1 7  wir
+: 1319 1 7  sind
+: 1331 1 7  hier
+- 1343
+: 1355 1 7 Denn
+: 1358 1 7  wir
+: 1368 1 7  sind
+: 1381 1 7  hier
+- 1398
+: 1414 1 7 Wenn
+: 1416 1 7  die
+: 1418 1 7  En
+: 1422 1 7 gel
+: 1425 1 7  fall'n
+: 1435 1 7  bin
+: 1438 1 7  ich
+: 1442 1 7  hier
+- 1451
+: 1459 1 7 Steh'
+: 1462 1 7  mit
+: 1466 1 7  Tat
+: 1470 1 7  und
+: 1474 1 7  Wort
+: 1482 1 7  hier
+: 1486 1 7  bei
+: 1490 1 7  dir
+- 1499
+: 1507 1 7 Bis
+: 1511 1 7  zum
+: 1515 1 7  letz
+: 1519 1 7 ten
+: 1523 1 7  Ort
+: 1532 1 7  folg'
+: 1535 1 7  ich
+: 1539 1 7  dir
+- 1545
+: 1550 1 7 Ich
+: 1560 13 7  bi~n
+: 1575 1 7  hier
+: 1593 1 7  hier
+: 1597 1 7  bei
+: 1602 1 7  dir
+- 1605
+: 1608 1 7 Wenn
+: 1611 1 7  die
+: 1613 1 7  En
+: 1616 1 7 gel
+: 1620 1 7  fall'n
+: 1629 1 7  bin
+: 1633 1 7  ich
+: 1637 1 7  hier
+- 1646
+: 1654 1 7 Steh'
+: 1657 1 7  mit
+: 1661 1 7  Tat
+: 1665 1 7  und
+: 1669 1 7  Wort
+: 1678 1 7  hier
+: 1681 1 7  bei
+: 1685 1 7  dir
+- 1694
+: 1702 1 7 Bis
+: 1706 1 7  zum
+: 1710 1 7  letz
+: 1713 1 7 ten
+: 1717 1 7  Ort
+: 1726 1 7  folg'
+: 1730 1 7  ich
+: 1734 1 7  dir
+- 1739
+: 1744 1 7 Ich
+: 1759 10 7  bi~n
+: 1770 1 7  hier
+: 1787 1 7  hier
+: 1793 1 7  bei
+: 1796 1 7  dir
+E
