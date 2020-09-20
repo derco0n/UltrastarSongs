@@ -7,8 +7,8 @@ However you might be able to provide your own audio/video as most of them can be
 
 The following linux-commands might come in handy for this:
 
-`youtube-dl --audio-quality 0 --audio-format mp3 --recode-video avi -v <VIDEO-URL>`
-`ffmpeg -i /path/to/downloaded/video.avi /path/to/target/audio.mp3`
+- `youtube-dl --audio-quality 0 --audio-format mp3 --recode-video avi -v <VIDEO-URL>`
+- `ffmpeg -i /path/to/downloaded/video.avi /path/to/target/audio.mp3`
 
 Furthermore you can create own songs using sites like:
 
