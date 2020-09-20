@@ -1,0 +1,291 @@
+#TITLE:Stossgebet
+#ARTIST:Powerwolf
+#LANGUAGE:German
+#EDITION:Official
+#GENRE:Metal
+#YEAR:2018
+#CREATOR:LDD
+#MP3:POWERWOLF - Stossgebet.mp3
+#VIDEO:POWERWOLF - Stossgebet.avi
+#BPM:89.00
+#GAP:39270
+: 0 1 4 Ave
+: 3 1 4  for
+: 5 1 4 ni
+: 8 1 4 ca
+: 10 5 4 tio
+: 18 1 4  et
+: 20 1 4  sa
+: 21 1 4 cri
+: 24 3 4 le
+: 28 2 4 gum
+- 31
+: 32 1 4 De
+: 34 1 4 us
+: 36 1 4  pec
+: 38 1 4 ca
+: 40 1 4 to
+: 42 1 4 ri
+: 44 4 4 bus
+: 51 1 4  et
+: 52 1 4  pa
+: 54 1 4 trum
+: 56 2 4  Je
+: 60 3 4 su
+- 63
+: 64 1 4 Or
+: 67 1 4 em
+: 68 1 4 us
+: 71 1 4  per
+: 73 1 4  co
+: 75 1 4 it
+: 77 3 4 um,
+: 82 1 4  et
+: 84 1 4  pa
+: 86 1 4 tris
+: 89 3 4  De
+: 92 2 4 um
+- 95
+: 97 1 4 Ani
+: 99 1 4 mus
+: 101 1 4  in
+: 103 1 4  li
+: 105 1 4 bi
+: 107 1 4 dum,
+: 115 1 4  et
+: 117 1 4  cru
+: 119 1 4 cem
+: 121 2 4  me
+: 124 2 4 um
+- 127
+: 129 1 4 Ave
+: 133 1 4  for
+: 135 1 4 ni
+: 137 1 4 ca
+: 139 1 4 tio
+: 147 1 4  et
+: 149 1 4  sa
+: 151 1 4 cri
+: 153 1 4 le
+: 156 2 4 gum
+- 159
+: 161 1 4 Er
+: 162 1 4  nahm
+: 163 1 4  sie
+: 165 1 4  dann
+: 167 1 4  ins
+: 169 1 4  Stoß
+: 171 1 4 ge
+: 172 1 4 bet
+- 174
+: 175 1 4 Der
+: 177 1 4  Kirch
+: 179 1 4 turm
+: 181 1 4  vorn
+: 183 1 4  zum
+: 186 1 4  Him
+: 188 1 4 mel
+: 191 1 4  steht
+- 192
+: 193 1 4 Der
+: 194 1 4  Wein
+: 196 1 4  ge
+: 197 1 4 weiht,
+: 200 1 4  die
+: 202 1 4  Erde
+: 204 1 4  bebt
+- 205
+: 205 1 4 Dem
+: 210 1 4  Herrn
+: 215 1 4  so
+: 218 1 4  nah
+: 220 1 4  im
+: 222 1 4  Stoß
+: 224 1 4 ge
+: 226 3 4 bet
+- 239
+: 250 2 4 Stoß
+: 254 2 4 ge
+: 258 4 4 bet
+- 272
+: 282 1 4 Stoß
+: 286 1 4 ge
+: 289 4 4 bet
+- 303
+: 314 2 4 Stoß
+: 318 3 4 ge
+: 322 10 4 bet
+- 343
+: 355 1 4 Ave
+: 357 1 4  phal
+: 359 1 4 lus
+: 362 1 4  do
+: 364 1 4 mi
+: 366 1 4 num
+: 373 1 4  e
+: 375 1 4 va
+: 377 1 4 gi
+: 379 1 4 na
+: 382 1 4 tio
+- 385
+: 387 1 4 Fer
+: 389 1 4 rum
+: 391 1 4  cor
+: 393 1 4 po
+: 395 1 4 ra
+: 397 1 4 lium,
+: 405 1 4  san
+: 407 1 4 gui
+: 409 1 4 nem
+: 411 1 4  vir
+: 415 1 4 gum
+- 417
+: 419 1 4 Ore
+: 421 1 4 mus
+: 425 1 4  per
+: 427 1 4  coi
+: 431 1 4 tum,
+: 437 1 4  et
+: 439 1 4  pat
+: 441 1 4 ris
+: 443 1 4  De
+: 447 2 4 um
+- 450
+: 451 1 4 Ani
+: 453 1 4 mus
+: 456 1 4  in
+: 458 1 4  li
+: 460 1 4 bi
+: 462 1 4 dum
+: 469 1 4  et
+: 472 1 4  cru
+: 473 1 4 cem
+: 476 1 4  me
+: 479 1 4 um
+- 482
+: 484 1 4 Ave
+: 486 1 4  for
+: 489 1 4 ni
+: 490 1 4 ca
+: 492 1 4 tio
+: 502 1 4  et
+: 504 1 4  sa
+: 506 1 4 cri
+: 508 1 4 le
+: 511 1 4 gum
+- 513
+: 514 1 4 Er
+: 516 1 4  nahm
+: 518 1 4  sie
+: 519 1 4  dann
+: 522 1 4  ins
+: 524 1 4  Stoß
+: 526 1 4 ge
+: 527 1 4 bet
+- 529
+: 530 1 4 Der
+: 532 1 4  Kirch
+: 534 1 4 turm
+: 536 1 4  vorn
+: 538 1 4  zum
+: 540 1 4  Him
+: 542 1 4 mel
+: 543 1 4  steht
+- 545
+: 547 1 4 Der
+: 549 1 4  Wein
+: 551 1 4  ge
+: 552 1 4 weiht,
+: 555 1 4  die
+: 557 1 4  Erde
+: 559 1 4  bebt
+- 561
+: 562 1 4 Dem
+: 564 1 4  Herrn
+: 569 1 4  so
+: 572 2 4  nah
+: 575 1 4  im
+: 577 1 4  Stoß
+: 579 1 4 ge
+: 580 3 4 bet
+- 594
+: 605 1 4 Stoß
+: 609 1 4 ge
+: 613 5 4 bet
+- 627
+: 637 2 4 Stoß
+: 641 2 4 ge
+: 645 15 4 bet
+- 662
+: 664 1 4 Und
+: 666 1 4  wer
+: 667 1 4  im
+: 669 1 4  Le
+: 671 1 4 ben
+: 673 1 4  kommt
+: 675 1 4  zu
+: 677 1 4  spät
+: 679 1 4  zum
+: 680 1 4  Stoß
+: 683 1 4 ge
+: 685 1 4 bet
+- 690
+: 695 1 4 Der
+: 697 1 4  hat
+: 699 1 4  des
+: 701 1 4  Teu
+: 703 1 4 fels
+: 704 1 4  Saat,
+: 707 1 4  die
+: 709 1 4  Pes
+: 711 1 4 ti
+: 712 1 4 lenz
+: 715 1 4  ge
+: 717 5 4 sät
+- 724
+: 727 1 4 Speit
+: 729 1 4  sich
+: 731 1 4  die
+: 733 1 4  See
+: 735 1 4 le
+: 736 1 4  aus,
+: 741 1 4  ein
+: 742 1 4  Wolf
+: 743 1 4  der
+: 745 1 4  nie
+: 747 1 4 mals
+: 749 2 4  schläft
+- 752
+: 753 1 4 In
+: 755 1 4  des
+: 757 3 4  Herr
+: 761 2 4 gotts
+: 765 3 4  star
+: 769 3 4 ken
+: 773 4 4  Ar
+: 778 8 4 men
+- 887
+: 984 1 4 Kom
+: 987 1 4 me
+: 995 1 4  zum
+: 999 6 4  Herrn,
+: 1007 3 4  Stoß
+: 1011 3 4 ge
+: 1015 6 4 bet
+- 1022
+: 1023 1 4 Kom
+: 1025 1 4 me
+: 1028 1 4  zum
+: 1031 7 4  Herrn,
+: 1040 2 4  Stoß
+: 1043 3 4 ge
+: 1047 4 4 bet
+- 1052
+: 1053 2 4 Kom
+: 1056 2 4 me
+: 1059 3 4  zum
+: 1063 7 4  Herrn,
+: 1072 3 4  Stoß
+: 1076 3 4 ge
+: 1080 21 4 bet
+E
