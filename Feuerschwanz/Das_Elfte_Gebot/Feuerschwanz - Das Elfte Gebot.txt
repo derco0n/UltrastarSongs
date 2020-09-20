@@ -1,0 +1,294 @@
+#TITLE:Das Elfte Gebot
+#ARTIST:Feuerschwanz
+#LANGUAGE:German
+#EDITION:Offical
+#GENRE:Folk-Rock
+#YEAR:2020
+#CREATOR:LDD
+#MP3:FEUERSCHWANZ - Das Elfte Gebot.mp3
+#VIDEO:FEUERSCHWANZ - Das Elfte Gebot.avi
+#BPM:161.00
+#GAP:41739
+: 0 1 6 Die
+: 3 1 6  letz
+: 4 4 6 te
+: 10 13 6  Schlacht
+: 34 1 6  ist
+: 37 3 6  ge
+: 42 8 6 schla
+: 52 3 6 gen
+- 58
+: 61 2 6 Blei
+: 65 2 6 grau
+: 69 1 6 er
+: 71 8 6  Dunst
+: 92 1 6  zieht
+: 94 1 6  über
+: 96 5 6  ödes
+: 103 7 6  Land
+- 117
+: 124 1 6 Schon
+: 128 2 6  liegst
+: 131 1 6  du
+: 134 8 6  da
+: 156 1 6  auf
+: 159 2 6  ei
+: 163 2 6 ner
+: 167 6 6  Ba
+: 175 5 6 re
+- 183
+: 187 2 6 Ne
+: 190 2 6 ben
+: 194 1 6  dir
+: 197 6 6  grinst
+: 218 1 6  der
+: 222 2 6  Sen
+: 226 2 6 sen
+: 230 6 6 mann
+- 243
+: 250 2 6 Er
+: 254 2 6  spricht
+: 258 2 6  zu
+: 261 8 6  dir
+: 281 1 6  fragt
+: 285 2 6  nach
+: 289 2 6  der
+: 293 6 6  Wahr
+: 301 5 6 heit
+- 309
+: 312 2 6 Wie's
+: 316 2 6  dir
+: 319 2 6  so
+: 323 6 6  geht
+: 343 1 6  und
+: 345 1 6  ob
+: 347 1 6  du
+: 348 2 6  glück
+: 351 2 6 lich
+: 355 5 6  bist
+- 368
+: 376 1 6 Denn
+: 378 1 6  das
+: 380 1 6  Elfte
+: 382 1 6  Ge
+: 385 7 6 bot
+: 409 1 6  ge
+: 411 1 6 bie
+: 414 1 6 tet
+: 418 1 6  zu
+: 420 3 6  le
+: 425 4 6 ben
+: 438 1 6 tet
+- 434
+: 439 1 6 Als
+: 440 1 6  mor
+: 441 1 6  war
+: 441 1 6 gen
+: 448 1 6  der
+: 450 9 6  Tod
+: 466 1 6  mor
+: 470 2 6 gen
+: 473 3 6  schon
+: 478 1 6  der
+: 480 10 6  Tod
+- 491
+: 493 1 6 Ja
+: 496 1 6  so
+: 497 2 6  steht's
+: 501 1 6  im
+: 504 1 6  Elf
+: 507 2 6 ten
+: 510 3 6  Ge
+: 515 4 6 bot
+- 634
+: 629 1 6 Der
+: 631 1 6  Geb
+: 632 2 6 ote
+: 636 9 6  zehn
+: 659 1 6  in
+: 662 3 6  Stein
+: 666 2 6  ge
+: 670 6 6 schrie
+: 678 5 6 ben
+- 686
+: 689 2 6 Der
+: 693 1 6  Ge
+: 696 1 6 vat
+: 698 2 6 ter
+: 701 6 6  spricht
+: 721 1 6  sein
+: 724 3 6  Straf
+: 729 1 6 ge
+: 731 10 6 richt
+- 749
+: 757 1 6 Gott
+: 759 1 6  ist
+: 761 9 6  tot
+: 783 1 6  nur
+: 784 1 6  ich
+: 787 2 6  bin
+: 791 3 6  ge
+: 796 5 6 blie
+: 803 5 6 ben
+- 811
+: 815 1 6 Und
+: 819 2 6  mein
+: 823 1 6  Ge
+: 825 6 6 bot
+: 847 1 6  das
+: 850 2 6  Elf
+: 854 1 6 te
+: 857 12 6  ist
+- 874
+: 879 1 6 Denn
+: 880 1 6  das
+: 882 2 6  Elf
+: 886 1 6 te
+: 888 1 6  Ge
+: 890 6 6 bot
+: 912 1 6  ge
+: 914 2 6 bie
+: 917 1 6 tet
+: 919 1 6  zu
+: 921 6 6  le
+: 929 5 6 ben
+- 937
+: 941 1 6 Als
+: 942 1 6  war
+: 944 1 6 tet
+: 947 2 6  mor
+: 950 1 6 gen
+: 951 1 6  der
+: 953 7 6  Tod
+: 969 1 6  mor
+: 973 1 6 gen
+: 977 2 6  schon
+: 981 1 6  der
+: 983 8 6  Tod
+- 998
+: 1006 1 6 Ja
+: 1007 1 6  das
+: 1009 1 6  Elf
+: 1011 1 6 te
+: 1013 1 6  Ge
+: 1016 5 6 bot
+: 1038 1 6  ge
+: 1040 1 6 bie
+: 1042 1 6 tet
+: 1044 1 6  zu
+: 1046 6 6  lie
+: 1054 5 6 ben
+- 1063
+: 1067 2 6 Und
+: 1071 2 6  zu
+: 1075 1 6  ver
+: 1078 6 6 glüh'n
+: 1087 1 6  in
+: 1093 1 6  Flam
+: 1096 4 6 men
+: 1101 2 6  lich
+: 1105 1 6 ter
+: 1107 9 6 loh
+: 1124 1 6  so
+- 1120
+: 1124 1 6 Ja
+: 1125 1 6  stehts
+: 1127 1 6  im
+: 1132 2 6  Elf
+: 1136 1 6 ten
+: 1139 1 6  Ge
+: 1140 8 6 bot
+- 1172
+: 1197 1 6 Das
+: 1198 7 6  Ge
+: 1198 1 6  Elf
+: 1200 1 6 te
+: 1204 6 6 bot
+- 1297
+: 1385 1 6 Es
+: 1387 1 6  ist
+: 1389 1 6  nicht
+: 1391 8 6  tot
+: 1412 1 6  was
+: 1416 5 6  ewigt
+: 1423 9 6  liegt
+- 1439
+: 1446 1 6 Bis
+: 1448 1 6  dass
+: 1450 1 6  die
+: 1453 8 6  Zeit
+: 1476 1 6  den
+: 1479 3 6  Tod
+: 1484 1 6  be
+: 1486 10 6 siegt
+- 1501
+: 1507 1 6 Denn
+: 1509 1 6  das
+: 1511 1 6  Elf
+: 1513 1 6 te
+: 1516 1 6  Ge
+: 1517 7 6 bot
+: 1540 1 6  ge
+: 1542 1 6 bie
+: 1545 1 6 tet
+: 1547 1 6  zu
+: 1549 6 6  le
+: 1557 4 6 ben
+- 1565
+: 1569 1 6 Als
+: 1570 1 6  war
+: 1572 1 6 tet
+: 1574 1 6  mor
+: 1577 1 6 gen
+: 1579 1 6  der
+: 1581 7 6  Tod
+: 1597 1 6  mor
+: 1601 2 6 gen
+: 1605 2 6  schon
+: 1609 1 6  der
+: 1611 9 6  Tod
+- 1627
+: 1634 1 6 Schon
+: 1636 1 6  mor
+: 1638 1 6 gen
+: 1642 1 6  der
+: 1644 10 6  Tod
+- 1675
+: 1696 1 6 Schon
+: 1698 1 6  mor
+: 1700 1 6 gen
+: 1705 1 6  der
+: 1708 11 6  Tod
+- 1739
+: 1760 1 6 Ja
+: 1761 1 6  das
+: 1763 1 6  Elf
+: 1764 1 6 te
+: 1767 3 6  Ge
+: 1772 4 6 bot
+: 1792 1 6  ge
+: 1794 1 6 bie
+: 1797 1 6 tet
+: 1799 2 6  zu
+: 1802 5 6  lie
+: 1809 5 6 ben
+- 1817
+: 1821 2 6 Und
+: 1824 2 6  zu
+: 1828 2 6  ver
+: 1832 6 6 glüh'n
+: 1840 5 6  in
+: 1848 1 6  Flam
+: 1848 2 6 men
+: 1856 1 6  lich
+: 1859 1 6 ter
+: 1862 9 6 loh
+- 1874
+: 1878 1 6 So
+: 1880 1 6  stehts
+: 1882 1 6  im
+: 1885 1 6  Elf
+: 1887 1 6 ten
+: 1893 1 6  Ge
+: 1895 16 6 bot
+E
