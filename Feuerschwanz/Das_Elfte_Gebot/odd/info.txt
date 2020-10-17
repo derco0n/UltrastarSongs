@@ -1,5 +1,8 @@
 download:
-https://www.youtube.com/watch?v=yTypkLfDgMo
+youtube-dl --audio-quality 0 --audio-format mp3 --recode-video avi -v https://www.youtube.com/watch?v=yTypkLfDgMo
+
+extract-audio:
+ffmpeg -i ./FEUERSCHWANZ\ -\ Das\ Elfte\ Gebot\ \(Official\ Video\)\ _\ Napalm\ Records-yTypkLfDgMo.avi ./FEUERSCHWANZ\ -\ Das\ Elfte\ Gebot\ \(Official\ Video\)\ _\ Napalm\ Records-yTypkLfDgMo.mp3
 
 Key: F#
 
