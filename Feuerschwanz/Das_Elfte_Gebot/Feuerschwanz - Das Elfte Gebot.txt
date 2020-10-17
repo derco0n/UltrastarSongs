@@ -9,24 +9,24 @@
 #VIDEO:FEUERSCHWANZ - Das Elfte Gebot.avi
 #BPM:165.0
 #GAP:41739
-: 0 1 14 Die
-: 2 4 14  letz
-: 6 3 13 te
-* 10 13 14  Schlacht
+: -1 2 14 Die
+: 2 3 14  letz
+: 5 2 13 te
+* 8 15 14  Schlacht
 : 34 2 14  ist
 : 38 4 13  ge
-: 42 6 15 schla
+: 42 6 9 schla
 : 49 9 6 gen
 - 57
 : 62 2 6 Blei
-: 67 2 6 grau
-: 69 3 9 er
+: 66 2 6 grau
+: 68 4 9 er
 : 74 8 13  Dunst
-: 93 1 13  zieht
-: 95 2 13  ü
-: 97 1 13 ber~
-: 99 2 13  ödes
-: 101 1 9 ~
+: 92 3 13  zieht
+: 96 1 13  ü
+: 97 2 13 ber
+: 100 1 13  ö
+: 101 3 13 des
 : 105 7 11  Land
 - 116
 : 126 3 14 Schon
