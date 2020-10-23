@@ -1,0 +1,5 @@
+-Song download
+-trimming
+-extracting audio
+-gathering lyrics
+-finding key and bpm
