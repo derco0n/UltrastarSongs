@@ -1,6 +1,5 @@
-download:
-https://www.youtube.com/watch?v=dBQ8dCZAtvI
-
 Key:
+F#
 
 BPM:
+108

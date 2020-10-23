@@ -2,4 +2,5 @@
 -trimming
 -extracting audio
 -gathering lyrics
+-adjusting lyrics for Ultrastar
 -finding key and bpm
