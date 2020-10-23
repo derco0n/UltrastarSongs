@@ -23,12 +23,15 @@ with open('./songlist.txt', newline='') as csvfile:
 
                 try:
                         targetdir = localpath / title
+                        miscdir = targetdir / "odd"
 
                         os.mkdir(targetdir)
-                        os.mkdir(targetdir + "/odd")
-                except Exception as e:
-                        print("Creation of the directory %s failed: %s" % targetdir, str(e))
-                else:
+                        os.mkdir(miscdir)
+                except FileExistsError as e:
+                        print("Creation of the directory " + str(targetdir) + " failed: " + str(e))
+                        continue
+
+                try:
                         print("Successfully created the directory %s" % targetdir)
                         print("Download video")
                         ydl_opts = {
@@ -54,9 +57,6 @@ with open('./songlist.txt', newline='') as csvfile:
                         }
                         with youtube_dl.YoutubeDL(ydl_opts) as ydl:
                                 ydl.download([url])
-
-                        #break #DEBUG
-
-
-
-
+                except Exception as e:
+                        print("Error on " + title + " => " + str(e))
+                        continue
