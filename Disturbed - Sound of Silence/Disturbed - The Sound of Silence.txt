@@ -1,0 +1,329 @@
+#TITLE:The Sound of Silence
+#ARTIST:Disturbed
+#LANGUAGE:English
+#GENRE:Rock
+#YEAR:2015
+#CREATOR:LDD
+#MP3:Disturbed  - The Sound Of Silence [Official Music Video].mp3
+#VIDEO:Disturbed  - The Sound Of Silence [Official Music Video].mp4
+#BPM:83.00
+#GAP:21795
+: 0 1 6 Hel
+: 1 1 6 lo,
+: 3 2 9  dark
+: 5 1 9 ness,
+: 7 1 13  my
+: 9 4 13  old
+: 14 9 11  friend
+- 27
+: 29 1 4 I've
+: 31 1 4  come
+: 33 1 4  to
+: 35 1 8  talk
+: 37 1 8  with
+: 39 5 11  you~
+: 45 3 9  a
+: 48 8 9 gain
+- 59
+: 61 2 9 Be
+: 64 1 9 cause
+: 66 1 9  a
+: 68 2 13  vi
+: 70 1 13 sion
+: 72 2 16  soft
+: 74 2 16 ly
+: 76 2 18 ~
+: 80 2 18  creep
+: 82 8 16 ing
+- 94
+: 96 1 9 Left
+: 98 1 9  its
+: 100 1 13  seeds
+: 102 1 13  while
+: 104 1 16  I
+: 106 2 16  was
+: 108 3 18 ~
+: 112 2 18  sleep
+: 114 8 16 ing
+- 127
+: 129 1 9 And
+: 131 1 9  the
+: 133 2 18  vi
+: 135 8 18 sion
+: 145 1 18  that
+: 147 1 20  was
+: 149 2 21  plan
+: 151 5 21 ted
+: 158 1 20  in
+: 160 3 18  my
+: 164 7 16  brain
+- 175
+: 177 4 18 Still
+: 182 3 16  re
+: 185 11 13 mains
+- 197
+: 199 1 9 With
+: 201 1 9 in
+: 203 1 9  the
+* 205 10 16  sound
+: 219 1 8  of
+: 221 2 9  si
+: 223 12 6 lence
+- 237
+: 239 1 6 In
+: 241 2 6  rest
+: 243 1 6 less
+: 245 1 9  dreams
+: 247 1 9  I
+: 249 1 11  walked
+: 251 5 9  a
+: 256 13 11 lone
+- 271
+: 273 2 8 Nar
+: 275 1 8 row
+: 277 1 8  streets
+: 279 1 8  of
+: 281 2 11  cob
+: 283 6 11 ble
+: 289 10 9 stone
+- 304
+: 306 1 9 'Neath
+: 308 1 9  the
+: 310 2 13  ha
+: 312 1 13 lo
+: 314 1 16  of
+: 316 2 16  a~
+: 318 3 18 ~
+: 322 2 18  street
+: 324 8 16 lamp~
+- 333
+: 335 1 16 I
+: 337 1 16  turned
+: 339 1 14  my
+: 341 2 13  col
+: 343 1 11 lar
+: 345 1 9  to
+: 347 1 4  the
+: 349 2 18  co
+: 351 1 16 ld
+: 353 1 14  and
+: 355 7 16  damp
+- 367
+: 369 1 9 When
+: 371 1 9  my
+: 373 3 18  eyes
+: 377 1 18  were
+: 379 5 18  stabbed
+: 385 1 18  by
+: 387 1 20  the
+: 389 3 21  flash
+: 393 1 21  of
+: 395 1 21  a
+: 397 2 20  ne
+: 399 3 18 on
+* 403 7 16  light
+- 413
+: 415 1 9 That
+: 417 5 18  split
+: 423 1 16  the
+: 425 10 13  night
+- 437
+: 439 1 9 And
+: 441 1 9  touched
+: 443 1 9  the
+* 445 9 16  sound
+: 459 1 8  of
+: 461 2 9  si
+: 463 12 6 lence
+- 476
+: 478 1 6 And
+: 480 1 6  in
+: 482 1 6  the
+: 484 2 9  na
+: 486 1 9 ked
+: 488 1 11  light
+: 490 3 9  I
+* 494 11 11  saw
+- 508
+: 510 1 8 Ten
+: 512 2 8  thou
+: 514 1 8 sand
+: 516 2 8  peo
+: 518 1 8 ple~,
+: 520 2 11  may
+: 522 3 8 be
+: 526 11 9  more
+- 541
+: 543 2 9 Peo
+: 545 1 9 ple~
+: 547 2 13  tal
+: 549 1 13 king
+: 551 2 16  with
+: 553 2 16 out~
+: 555 3 18 ~
+: 559 2 18  speak
+: 561 7 16 ing~
+- 573
+: 575 2 9 Peo
+: 577 1 9 ple~
+: 579 2 13  hear
+: 581 1 13 ing~
+: 583 2 16  with
+: 585 2 16 out
+: 587 2 18 ~
+: 590 2 18  listen
+: 592 3 16 ing~
+- 596
+: 598 2 9 Peo
+: 600 1 9 ple~
+: 602 2 13  writ
+: 604 5 16 ing
+: 610 9 18  songs
+: 622 3 20  that
+: 626 2 21  voic
+: 628 4 21 es
+: 633 2 20  ne
+: 635 3 18 ver
+: 639 7 16  share
+- 649
+: 651 1 1 And
+: 653 1 18  no
+: 655 3 16  one
+: 659 7 13  dare
+- 672
+: 674 2 9 Dis
+: 676 1 9 turb
+: 678 1 9  the
+* 680 10 16  sound
+: 694 1 8  of
+: 696 2 9  si
+: 698 12 6 lence
+- 713
+: 715 1 6 Fools,
+: 717 1 6  said
+: 719 1 9  I,
+: 721 1 9  You
+: 723 1 11  do
+: 725 3 9  not
+: 729 12 11  know
+- 744
+: 746 2 8 Si
+: 748 1 8 lence,
+: 750 1 8  like
+: 752 1 8  a
+: 754 2 11  can
+: 756 3 8 cer,
+: 760 12 9  grows
+- 775
+: 777 1 9 Hear
+: 779 1 9  my
+: 781 1 13  words
+: 783 1 13  that
+: 785 1 16  I
+: 787 2 16  might
+: 789 2 18 ~
+: 793 1 18  teach
+: 795 7 16  you
+- 806
+: 808 1 21 Take
+: 810 1 20  my
+: 812 1 18  arms
+: 814 1 16  that
+: 816 1 13  I
+: 818 2 9  might
+: 820 2 18 ~
+: 823 1 18  reach
+: 825 8 16  you
+- 837
+: 839 1 9 But
+: 841 3 9  my
+: 845 8 18  words
+: 855 2 20  like
+: 858 2 21  si
+: 860 3 21 lent
+: 864 3 20  rain
+: 867 4 18 drops
+: 872 7 16  fell
+- 884
+: 894 1 8 And
+: 896 2 9  e
+: 898 3 9 choed
+: 902 1 9  in
+: 903 1 9  the
+: 904 12 16  wells
+: 918 1 8  of
+: 920 2 9  si
+: 922 12 6 lence
+- 937
+: 939 1 18 And
+: 941 1 16  the
+: 943 2 9  peo
+: 945 1 9 ple
+: 947 1 11  bowed
+: 949 3 9  and
+: 953 13 11  prayed
+- 968
+: 970 1 16 To
+: 972 1 16  the
+: 974 1 16  ne
+: 975 2 16 on
+: 978 4 16  god
+: 983 3 18  they
+: 987 11 18  made
+- 999
+: 1001 1 9 And
+: 1003 1 9  the
+: 1004 2 13  sign
+: 1007 1 13  flashed
+: 1009 1 16  out
+: 1011 2 16  its
+: 1013 2 18 ~
+: 1016 2 18  warn
+: 1018 9 16 ing
+- 1030
+: 1032 1 21 In
+: 1034 1 20  the
+: 1036 1 18  words
+: 1038 1 16  that
+: 1040 1 13  it
+: 1042 2 9  was
+: 1044 2 18 ~
+: 1047 2 18  form
+: 1049 8 16 ing
+- 1061
+: 1063 1 9 And
+: 1065 1 9  the
+: 1067 2 13  sign
+: 1070 1 16  said
+- 1071
+: 1072 1 16 The
+: 1074 3 18  words
+: 1078 1 18  of
+: 1080 1 18  the
+: 1082 2 18  pro
+: 1084 1 18 phets
+: 1086 3 20  are
+: 1090 1 21  written
+: 1092 2 21  on
+: 1095 1 21  the
+: 1097 2 20  sub
+: 1099 3 18 way
+: 1103 7 16  walls
+- 1113
+: 1115 1 9 And
+: 1117 1 18  te
+: 1118 1 18 ne~
+: 1119 2 16 ment
+: 1123 7 13  halls
+- 1132
+: 1134 1 9 And
+: 1136 2 9  whis
+: 1138 11 9 pered
+: 1150 1 9  in
+: 1151 1 9  the
+* 1152 24 16  sound
+- 1182
+: 1185 4 8 Of
+: 1191 5 9  si
+: 1196 24 6 lence
+E
