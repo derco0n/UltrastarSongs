@@ -1,0 +1,275 @@
+#TITLE:Beggars and Kings
+#ARTIST:Mono Inc.
+#LANGUAGE:English
+#GENRE:Gothic Rock
+#YEAR:2017
+#CREATOR:LDD
+#MP3:MONO INC. - Beggars And Kings.mp3
+#VIDEO:MONO INC. - Beggars And Kings.mp4
+#BPM:96.00
+#GAP:23102
+: 0 1 2 Lo
+: 3 1 2 ser
+: 6 1 2  and
+: 8 1 2  win
+: 9 1 2 ners
+- 13
+: 16 1 2 Good
+: 19 1 2  men
+: 21 1 2  and
+: 23 1 2  sin
+: 24 1 2 ners
+- 28
+: 32 1 2 Nuns
+: 35 1 2  and
+: 37 1 2  the
+: 39 1 2  whore
+- 52
+: 64 1 2 Mid
+: 67 1 2 wives
+: 69 1 2  and
+: 70 1 2  kil
+: 72 1 2 lers
+- 76
+: 79 1 2 Must-have's
+: 86 1 2  and
+: 87 1 2  fil
+: 89 1 2 lers
+- 92
+: 94 1 2 Born
+: 95 1 2  in
+: 99 1 2 to
+: 102 1 2  a
+: 106 1 2  war
+- 116
+: 126 1 2 Life's
+: 129 1 2  good
+: 140 1 2  to
+: 143 1 2  some
+: 145 1 2  of
+: 147 1 2  us
+- 152
+: 156 1 2 And
+: 157 1 2  for
+: 162 4 2  some
+: 171 1 2  life
+: 174 7 2  stinks
+- 185
+: 189 1 2 Life
+: 193 1 2  hurts
+: 204 1 2  and
+: 208 1 2  makes
+: 210 1 2  you
+: 212 4 2  love
+- 217
+: 218 1 2 Wel
+: 219 2 2 come
+: 223 2 2  to
+: 227 1 2  a
+: 230 1 2  world
+: 235 1 2  of
+: 239 1 2  beg
+: 241 1 2 gars
+: 242 1 2  and
+: 247 4 2  kings
+- 272
+: 293 1 2 A
+: 296 1 2  world
+: 299 1 2  of
+: 302 1 2  beg
+: 304 1 2 gars
+: 307 1 2  and
+: 311 5 2  kings
+- 350
+: 384 1 2 Fa
+: 387 1 2 thers
+: 389 1 2  and
+: 391 1 2  mo
+: 393 1 2 thers
+- 396
+: 399 1 2 Sis
+: 400 1 2 ters
+: 403 1 2  and
+: 405 1 2  bro
+: 408 1 2 thers
+- 411
+: 413 1 2 Vir
+: 418 1 2 gins
+: 421 1 2  and
+: 422 10 2  boys
+- 440
+: 448 2 2 Faint
+: 451 1 2 hearts
+: 452 1 2  and
+: 454 1 2  fight
+: 458 2 2 ers
+- 461
+: 463 2 2 Fil
+: 467 1 2 chers
+: 468 2 2  and
+: 471 1 2  wri
+: 473 3 2 ters
+- 476
+: 477 1 2 It
+: 478 3 2  wasn't
+: 482 2 2  their
+: 502 1 2  cho~ice,
+: 503 1 2  no
+- 506
+: 509 1 2 Life's
+: 513 8 2  good
+: 523 1 2  to
+: 527 1 2  some
+: 528 1 2  of
+: 529 6 2  u~s
+- 537
+: 539 1 2 And
+: 541 1 2  for
+: 544 6 2  some
+: 555 1 2  life
+: 558 8 2  stinks
+- 569
+: 572 1 2 Life's
+: 576 2 2  a
+: 580 2 2  bitch
+: 586 1 2  and
+: 589 2 2  makes
+: 592 1 2  you
+: 593 7 2  lo~ve
+- 600
+: 601 1 2 Wel
+: 602 2 2 come
+: 606 2 2  to
+: 610 1 2  a
+: 611 6 2  world
+: 618 1 2  of
+: 622 2 2  beg
+: 625 2 2 gars
+: 628 1 2  and
+: 630 9 2  kings
+- 658
+: 677 1 2 A
+: 679 1 2  world
+: 681 1 2  of
+: 687 1 2  beg
+: 689 1 2 gars
+: 693 1 2  and
+: 695 6 2  kings
+- 721
+: 741 1 2 A
+: 743 1 2  world
+: 747 1 2  of
+: 750 1 2  beg
+: 752 1 2 gars
+: 755 1 2  and
+: 758 13 2  kings
+- 787
+: 804 1 2 A
+: 807 1 2  world
+: 811 1 2  of
+: 814 1 2  beg
+: 816 1 2 gars
+: 819 1 2  and
+: 823 13 2  kings
+- 1111
+: 1386 1 2 A
+: 1391 1 2  world
+: 1392 1 2  of
+: 1393 1 2  beg
+: 1397 1 2 gars
+: 1399 1 2  and
+: 1401 3 2  kings
+- 1406
+: 1408 1 2 Life's
+: 1410 1 2  good
+: 1419 1 2  to
+: 1423 1 2  some
+: 1425 1 2  of
+: 1428 5 2  us
+- 1434
+: 1435 1 2 And
+: 1437 1 2  for
+: 1440 7 2  some
+: 1450 1 2  life
+: 1453 11 2  stinks
+- 1466
+: 1468 1 2 Life's
+: 1472 9 2  good
+: 1484 1 2  to
+: 1487 2 2  some
+: 1490 1 2  of
+: 1491 6 2  u~s
+- 1498
+: 1500 1 2 And
+: 1501 2 2  life's
+: 1505 6 2  fair
+: 1513 1 2  ...
+: 1514 1 2  a
+: 1515 1 2  world
+: 1516 1 2  of
+: 1518 1 2  beg
+: 1520 1 2 gars
+: 1523 1 2  and
+: 1527 4 2  kings)
+- 1532
+: 1534 1 2 Life's
+: 1537 7 2  good
+: 1548 1 2  to
+: 1551 1 2  some
+: 1553 1 2  of
+: 1554 1 2  u~s
+- 1559
+: 1563 1 2 And
+: 1568 1 2  for
+: 1570 6 2  some
+: 1579 1 2  life
+: 1582 11 2  stinks
+- 1594
+: 1596 1 2 Life's
+: 1600 8 2  good
+: 1611 1 2  to
+: 1614 2 2  some
+: 1618 1 2  of
+: 1619 5 2  u~s
+- 1625
+: 1627 1 2 And
+: 1629 2 2  life's
+: 1633 5 2  fair
+: 1639 1 2  ...
+: 1640 1 2  a
+: 1641 1 2  world
+: 1643 1 2  of
+: 1644 2 2  beg
+: 1648 1 2 gars
+: 1649 4 2  and
+: 1654 4 2  kings)
+- 1660
+: 1662 1 2 Life's
+: 1665 8 2  good
+: 1676 1 2  to
+: 1678 1 2  some
+: 1681 1 2  of
+: 1683 7 2  u~s
+- 1690
+: 1691 1 2 And
+: 1693 2 2  for
+: 1696 9 2  some
+: 1707 1 2  life
+: 1710 12 2  stinks
+- 1723
+: 1724 1 2 Life's
+: 1725 11 2  good
+: 1739 1 2  to
+: 1742 1 2  some
+: 1745 1 2  of
+: 1753 1 2  u~s
+- 1755
+: 1757 1 2 And
+: 1759 1 2  life's
+: 1762 4 2  fair
+: 1769 1 2  to
+: 1770 1 2  beg
+: 1771 1 2 gars
+: 1774 1 2  and
+: 1777 14 2  kings
+E
