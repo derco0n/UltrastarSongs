@@ -2,6 +2,7 @@
 
 ## Todo:
 - Madsen - Nochmal
+- Bad wolfes - Zombie
 
 ## Work In Progress:
 ### Stage 1:
