@@ -3,6 +3,7 @@
 #
 # parses a .csv-like file to download the the songs and extract audio to .mp3
 # Artist - Songname;Youtube-Link
+# Stay legal: Don't download copyright-protected media
 #
 # derco0n, 2020/11
 
