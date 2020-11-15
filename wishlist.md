@@ -3,19 +3,23 @@
 ## Todo:
 - Madsen - Nochmal
 - Bad wolfes - Zombie
+- ASP feat. Eric Fish - Zaubererbruder (+Duett)
+- Subway to Sally - Komm in meinen Schlaf (+Duett)
+- ASP - Mein Herz erkennt dich immer (+Duett)
 
 ## Work In Progress:
 ### Stage 1:
 - Beyond the black - Heart of the Hurricane
 - Avenged Sevenfold - So far Away
-- Seether feat. Amy Lee - Broken
 - Breaking Benjamin - Dance with the devil
 - Russel Watson - Where my heart will take me
 - Five finger Death Punch - Wrong side of heaven
-- Mono Inc - A vagabonds life
+- Mono Inc feat. Eric Fish - A vagabonds life
 - Versengold - Thekenmädchen
 - Malukah - The Dragonborn Comes
 - Ed Sheeran - Thinking out loud
+- Eluveitie - Ambiramus
+- Eluveitie - Ambiramus (Live Acoustic)
 
 ### Stage 2:
 - Billy Talent - Reckless Paradise
@@ -23,3 +27,4 @@
 - Powerwolf - Stossgebet
 - Unleash the Archers - Northwest Passage
 - Mono Inc. - Beggars and Kings
+- Seether feat. Amy Lee - Broken (+Duett)
