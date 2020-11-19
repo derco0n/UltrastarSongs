@@ -24,4 +24,4 @@ Furthermore you can create own songs using sites like:
 Disclaimer: Please note that i'm not related to any of the sites linked above and therefore not responsible for any of their contents.
 
 ## Contributing
-Please see [contributing.md](https://github.com/derco0n/UltrastarSongs/contributing.md) for details. 
+Please see [contributing.md](https://github.com/derco0n/UltrastarSongs/blob/master/contributing.md) for details. 
