@@ -1,7 +1,8 @@
-#Contributing
+# Contributing
 
 If you think you can create songfiles in a good quality you're welcome to fork this project and submit pull-request.
 Even if a song may not be perfect, but can be a good starting point, i'm happy to receive a PR.
+
 You may also help by gathering lyrics, correcting or adjusting them for ultrastar, fixing individual notes that might be wrong or finding keys and BPMs for songs.
 If you like you may craft a duett-song from finished standard-song.
 
