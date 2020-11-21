@@ -8,7 +8,7 @@ If you like you may craft a duett-song from finished standard-song.
 
 ## Guidlines
 - Have Fun.
-- Please don't submit any sound or videofile, as they might need a licence. We wan't to avoid legal issues.
+- Please don't submit any sound or videofile, as they might need a licence. We want to avoid legal issues.
 - Please submit your songs in the same structre as seen here
 	- Folder: Artist - Song -> A folder of a finished song
 		- Artist - Songname.txt -> The songfile for Ultrastar
