@@ -1,13 +1,14 @@
-#Contributing
+# Contributing
 
 If you think you can create songfiles in a good quality you're welcome to fork this project and submit pull-request.
 Even if a song may not be perfect, but can be a good starting point, i'm happy to receive a PR.
+
 You may also help by gathering lyrics, correcting or adjusting them for ultrastar, fixing individual notes that might be wrong or finding keys and BPMs for songs.
 If you like you may craft a duett-song from finished standard-song.
 
 ## Guidlines
 - Have Fun.
-- Please don't submit any sound or videofile, as they might need a licence. We wan't to avoid legal issues.
+- Please don't submit any sound or videofile, as they might need a licence. We want to avoid legal issues.
 - Please submit your songs in the same structre as seen here
 	- Folder: Artist - Song -> A folder of a finished song
 		- Artist - Songname.txt -> The songfile for Ultrastar
