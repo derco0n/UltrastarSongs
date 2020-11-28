@@ -27,4 +27,3 @@
 - Powerwolf - Stossgebet
 - Unleash the Archers - Northwest Passage
 - Mono Inc. - Beggars and Kings
-- Seether feat. Amy Lee - Broken (+Duett)
