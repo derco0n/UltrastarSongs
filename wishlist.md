@@ -6,6 +6,7 @@
 - ASP feat. Eric Fish - Zaubererbruder (+Duett)
 - Subway to Sally - Komm in meinen Schlaf (+Duett)
 - ASP - Mein Herz erkennt dich immer (+Duett)
+- Feuerschwanz - I See fire
 
 ## Work In Progress:
 ### Stage 1:
