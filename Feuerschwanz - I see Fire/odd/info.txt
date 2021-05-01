@@ -1,0 +1,9 @@
+download:
+youtube-dl --audio-quality 0 --audio-format mp3 --recode-video mp4 -v https://www.youtube.com/watch?v=F-8JYS1uXC8
+
+extract-audio:
+ffmpeg -i FEUERSCHWANZ - I See Fire.mp4 FEUERSCHWANZ - I See Fire.mp3
+
+Key: F# min
+
+BPM: 152
