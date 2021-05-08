@@ -5,6 +5,7 @@
 - ASP feat. Eric Fish - Zaubererbruder (+Duett)
 - Subway to Sally - Komm in meinen Schlaf (+Duett)
 - ASP - Mein Herz erkennt dich immer (+Duett)
+- Sylver - Lay all your love in me
 
 ## Work In Progress:
 ### Stage 1:
@@ -20,6 +21,7 @@
 - Ed Sheeran - Thinking out loud
 - Eluveitie - Ambiramus
 - Eluveitie - Ambiramus (Live Acoustic)
+- Feuerschwanz - I See fire
 
 ### Stage 2:
 - Billy Talent - Reckless Paradise
