@@ -1,15 +1,14 @@
 # Song-Wishlist
 
 ## Todo:
-- Madsen - Nochmal
 - Bad wolfes - Zombie
 - ASP feat. Eric Fish - Zaubererbruder (+Duett)
 - Subway to Sally - Komm in meinen Schlaf (+Duett)
 - ASP - Mein Herz erkennt dich immer (+Duett)
-- Feuerschwanz - I See fire
 
 ## Work In Progress:
 ### Stage 1:
+- Madsen - Nochmal
 - Beyond the black - Heart of the Hurricane
 - Avenged Sevenfold - So far Away
 - Breaking Benjamin - Dance with the devil
@@ -28,3 +27,4 @@
 - Powerwolf - Stossgebet
 - Unleash the Archers - Northwest Passage
 - Mono Inc. - Beggars and Kings
+- Feuerschwanz - I See fire

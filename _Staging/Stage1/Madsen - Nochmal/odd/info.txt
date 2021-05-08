@@ -1,0 +1,8 @@
+download:
+youtube-dl --audio-quality 0 --audio-format mp3 --recode-video mp4 -v https://www.youtube.com/watch?v=eQiP2IKlg6M
+
+extract-audio:
+
+Key: C Maj
+
+BPM: 117
