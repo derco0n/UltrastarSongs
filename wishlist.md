@@ -6,6 +6,8 @@
 - Subway to Sally - Komm in meinen Schlaf (+Duett)
 - ASP - Mein Herz erkennt dich immer (+Duett)
 - Sylver - Lay all your love in me
+- Saltatio Mortis - Spielmannsschwur
+- Saltatio Mortis - Erinnerung
 
 ## Work In Progress:
 ### Stage 1:
@@ -25,7 +27,6 @@
 
 ### Stage 2:
 - Billy Talent - Reckless Paradise
-- Powerwolf - Demons are a girls best friend
 - Powerwolf - Stossgebet
 - Unleash the Archers - Northwest Passage
 - Mono Inc. - Beggars and Kings

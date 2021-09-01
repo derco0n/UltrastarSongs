@@ -1,0 +1,409 @@
+#TITLE:Demons are a girls best friend
+#ARTIST:Powerwolf
+#LANGUAGE:English
+#EDITION:Official
+#GENRE:Metal
+#YEAR:2018
+#CREATOR:LDD
+#MP3:POWERWOLF - Demons Are A Girls Best Friend.mp3
+#VIDEO:POWERWOLF - Demons Are A Girls Best Friend.avi
+#BPM:144.00
+#GAP:28858
+: 0 2 4 Be
+: 2 1 3 ware
+: 4 1 -1  the
+: 6 7 1  night
+- 21
+: 24 2 -4 Be
+: 26 1 -4 ware
+: 28 1 -4  the
+: 30 1 4  night
+: 32 2 3  be
+: 34 1 1 fore
+: 36 1 -1  the
+* 38 9 1  dawn
+- 53
+: 56 2 -4 Be
+: 58 1 -4 ware
+: 60 1 -4  the
+: 62 1 4  dark
+: 64 1 3  when
+: 66 1 1  light
+: 68 1 -1  is
+: 70 3 1  gone
+- 74
+: 76 1 1 For
+: 78 2 1  there's
+: 82 2 4  a
+: 86 4 3  phan
+: 90 3 1 tom
+: 94 3 0  lust
+: 98 2 -4  to
+: 102 8 1  wake
+- 118
+: 121 1 -4 They
+: 123 2 -4  wan
+: 125 1 -4 na
+: 127 1 4  make
+: 129 1 3  you
+: 131 1 1  bend
+: 133 1 -1  and
+: 135 8 1  scream
+- 150
+: 153 1 -4 They
+: 155 2 -4  wan
+: 157 1 -4 na
+: 159 1 4  take
+: 161 1 6  your
+: 163 1 3  hand
+: 165 1 -1  and
+: 167 4 1  lead
+: 172 1 1  you
+: 174 3 1  in
+: 179 2 4  the
+: 183 3 3  light
+: 187 2 1  of
+: 191 4 0  Ve
+: 195 2 -4 nus,
+: 199 9 1  girl
+- 214
+: 217 1 -4 Come
+: 219 1 -4  let
+: 221 1 -4  them
+: 223 1 4  take
+: 225 1 6  you
+: 227 1 4  for
+: 229 1 3  a
+: 231 8 4  ride
+- 246
+: 249 2 -3 For
+: 251 1 -3 get
+: 253 1 -3  the
+: 255 1 4  lord
+: 257 1 6  and
+: 259 1 4  cross
+: 261 1 3  to
+: 263 4 4 night
+- 268
+: 270 1 4 And
+: 272 2 4  let
+: 276 3 3  your
+: 280 4 3  car
+: 284 3 1 nal
+: 288 3 1  lust
+: 292 4 -1  pre
+: 296 10 1 vail
+: 308 1 3  to
+: 312 12 0 night
+- 326
+: 328 2 1 O~h
+* 332 2 8 o~h
+: 336 5 6 o~h
+: 343 2 4  oh
+: 345 2 6 oh
+* 347 10 8 oh,
+: 360 2 6  de
+: 362 1 6 mons
+: 364 1 6  come
+: 366 1 6  at
+: 368 3 6  night
+: 372 1 6  and
+: 374 1 8  they
+: 376 3 9  bring
+: 380 2 8  the
+: 384 5 8  end
+- 390
+: 392 4 1 O~h
+* 397 4 8 o~h
+: 401 5 6 o~h
+: 407 2 4  oh
+: 409 2 6 oh
+* 411 7 8 oh,
+: 425 2 4  de
+: 427 1 4 mons
+: 429 1 4  are
+: 431 1 4  a
+: 433 3 3  girl's
+: 437 2 -1  best
+: 441 7 1  friend
+- 454
+: 457 3 1 O~h
+: 461 3 8 o~h
+: 465 5 6 o~h
+: 471 2 4  oh
+: 473 2 6 oh
+: 475 7 8 oh,
+: 489 2 6  de
+: 491 1 6 mons
+: 493 1 6  come
+: 495 2 6  a
+: 497 3 6 live
+: 501 1 6  and
+: 503 1 8  they
+: 505 3 9  take
+: 509 4 8  com
+: 513 5 8 mand~
+- 519
+: 521 3 1 O~h
+: 525 3 8 o~h
+: 529 5 6 o~h
+: 535 2 4  oh
+: 537 2 6 oh
+: 539 7 8 oh,
+: 553 2 4  de
+: 555 1 4 mons
+: 557 1 4  are
+: 559 1 4  a
+: 561 4 3  girl's
+: 566 3 -1  best
+: 570 7 1  friend
+- 578
+: 580 2 4 Be
+: 582 1 3 ware
+: 584 1 -1  the
+: 586 6 1  fire
+- 601
+: 604 1 -4 Be
+: 606 1 -4 ware
+: 608 1 -4  the
+: 610 1 4  fi
+: 612 1 3 re~
+: 614 1 1  in
+: 616 1 -1  their
+: 618 7 1  eyes
+- 633
+: 636 2 -4 Be
+: 638 1 -4 ware
+: 640 1 -4  the
+: 642 2 4  hor
+: 644 2 3 mo
+: 646 2 1 ne-dri
+: 648 1 -1 ven
+: 650 3 1  lies
+- 654
+: 656 1 1 For
+: 658 3 1  there's
+: 662 3 4  a
+: 666 3 3  truth
+: 670 4 1  be
+: 674 3 0 hind
+: 678 2 -4  the
+: 682 10 1  veil
+- 698
+: 701 1 -4 They
+: 703 1 -4  make
+: 705 1 -4  you
+: 707 1 4  part
+: 709 1 3  of
+: 711 2 1  black
+: 713 1 -1 ened
+: 715 7 1  rites
+- 730
+: 733 2 -4 Pro
+: 735 1 -4 tect
+: 737 1 -4  the
+* 739 1 4  grail
+* 741 2 3  be
+: 743 1 1 tween
+: 745 1 -1  your
+: 747 2 1  thighs
+- 750
+: 752 1 1 Your
+: 754 4 1  an
+: 758 4 4 ti
+: 762 3 3 dote
+: 766 3 1  of
+: 771 4 0  e
+: 775 3 -4 vil~,
+: 779 9 1  girl
+- 794
+: 797 1 -4 Come
+: 799 2 -4  re
+* 801 2 -4 sur
+* 803 1 4 rect
+* 805 1 6  him
+* 807 1 4  to
+* 809 1 3  the
+: 811 9 4  sky
+- 826
+: 829 1 -3 And
+: 831 1 -3  wave
+: 833 1 -4  all
+: 835 2 4  in
+: 837 2 6 no
+: 839 1 4 cence
+: 841 1 3  good
+: 843 3 4 bye
+- 847
+: 849 1 4 And
+: 851 3 4  let
+: 855 4 3  de
+: 859 4 3 si
+: 863 3 1 re~
+: 867 3 1  take
+: 871 4 -1  com
+: 875 11 1 mand
+: 887 2 3  to
+: 891 17 0 night
+- 920
+: 924 4 1 O~h
+: 929 3 8 o~h
+: 933 5 6 o~h
+: 939 2 4  oh
+: 941 2 6 oh
+: 943 7 8 oh,
+: 956 2 6  de
+: 958 1 6 mons
+: 960 1 6  come
+: 962 1 6  at
+: 964 3 6  night
+: 968 1 6  and
+: 970 1 8  they
+: 972 3 9  bring
+: 976 2 8  the
+: 980 5 8  end
+- 987
+: 989 3 1 O~h
+: 993 3 8 o~h
+: 997 5 6 o~h
+: 1003 2 4  oh
+: 1005 2 6 oh
+: 1007 6 8 oh,
+: 1020 2 4  de
+: 1022 1 4 mons
+: 1024 1 4  are
+: 1026 1 4  a
+: 1028 3 3  girl's
+: 1032 2 -1  best
+: 1036 7 1  friend
+- 1050
+: 1053 4 1 O~h
+: 1058 3 8 o~h
+: 1062 3 6 o~h
+: 1067 2 4  oh
+: 1069 2 6 oh
+: 1071 7 8 oh,
+: 1085 2 6  de
+: 1087 1 6 mons
+: 1089 1 6  come
+: 1091 2 6  a
+: 1093 3 6 live
+: 1097 1 6  and
+: 1099 1 8  they
+: 1101 2 9  take
+: 1105 4 8  com
+: 1109 5 8 mand
+- 1116
+: 1118 3 1 O~h
+: 1122 3 8 o~h
+: 1126 4 6 o~h
+: 1132 2 4  oh
+: 1134 2 6 oh
+: 1136 6 8 oh,
+: 1149 2 4  de
+: 1151 1 4 mons
+: 1153 1 4  are
+: 1155 1 4  a
+: 1157 3 3  girl's
+: 1162 2 -1  best
+: 1166 5 1  friend
+- 1190
+: 1394 1 3 And
+: 1396 1 3  when
+: 1398 1 3  your
+: 1400 4 4  sleep
+: 1405 1 4  is
+: 1407 1 4  haun
+: 1409 1 3 ted
+: 1411 1 1  in
+: 1413 1 3  the
+: 1415 6 4  night
+- 1424
+: 1426 1 -1 Girl,
+: 1428 1 -1  don't
+: 1430 1 -1  you
+: 1432 4 6  dare
+: 1438 1 6  to
+: 1440 1 6  seek
+: 1442 1 4  for
+: 1444 2 3  can
+: 1446 1 4 dle
+: 1448 6 6  light
+- 1456
+: 1458 1 -3 Cause
+: 1460 1 -3  in
+: 1462 1 -3  the
+: 1464 5 4  dark
+: 1470 1 4  your
+: 1472 2 4  de
+: 1474 1 3 mons
+: 1476 1 1  come
+: 1478 1 3  as
+: 1480 4 4  car
+: 1484 3 1 nal
+: 1488 11 3  dy
+: 1499 4 3 na
+: 1503 13 8 mite
+- 1518
+* 1520 3 3 O~h
+* 1524 3 10 o~h
+* 1528 4 8 o~h
+* 1535 2 6  oh
+* 1537 2 8 oh
+* 1539 10 10 oh,
+: 1552 2 8  de
+: 1554 1 8 mons
+: 1556 1 8  of
+: 1558 1 8  the
+: 1560 3 8  night
+: 1564 1 8  come
+: 1566 1 10  and
+: 1568 3 11  take
+: 1573 3 10  her
+: 1577 4 10  hand
+- 1582
+: 1584 3 3 O~h
+: 1588 3 10 o~h
+: 1592 5 8 o~h
+: 1599 2 6  oh
+: 1601 2 8 oh
+: 1603 7 10 oh,
+: 1617 2 6  de
+: 1619 1 6 mons
+: 1621 1 6  are
+: 1623 1 6  a
+: 1625 3 5  girl's
+: 1629 2 1  best
+: 1633 1 3  friend
+- 1634
+: 1634 3 3 O~h
+: 1638 3 10 o~h
+: 1642 4 8 o~h
+: 1647 2 6  oh
+: 1649 2 8 oh
+: 1651 6 10 oh,
+: 1665 2 8  de
+: 1667 1 8 mon
+: 1669 1 8  'tween
+: 1671 1 8  your
+: 1673 3 8  thighs,
+: 1677 1 8  come
+: 1679 1 10  and
+: 1681 3 11  make
+: 1685 2 10  their
+: 1689 5 10  stand
+- 1695
+: 1697 3 3 O~h
+* 1701 3 10 o~h
+: 1705 5 8 o~h
+: 1712 2 6  oh
+: 1714 2 8 oh
+* 1716 7 10 oh,
+: 1730 2 6  de
+: 1732 1 6 mons
+: 1734 1 6  are
+: 1736 1 6  a
+: 1738 3 5  girl's
+: 1742 3 1  best
+: 1746 14 3  friend
+E
