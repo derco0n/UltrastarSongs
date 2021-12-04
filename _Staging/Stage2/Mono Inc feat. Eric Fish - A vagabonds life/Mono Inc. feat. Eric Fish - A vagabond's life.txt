@@ -1,0 +1,422 @@
+#TITLE:A vagabond's life
+#ARTIST:Mono Inc. feat. Eric Fish
+#LANGUAGE:English
+#GENRE:Gothic Rock
+#YEAR:2018
+#CREATOR:LDD
+#MP3:MONO INC. feat Eric Fish - A Vagabond's Life.mp3
+#VIDEO:MONO INC. feat Eric Fish - A Vagabond's Life.mp4
+#BPM:129.00
+#GAP:16152
+#MEDLEYSTARTBEAT:2
+#MEDLEYENDBEAT:2
+: 0 2 15 Here
+: 3 2 15  comes
+: 8 1 16  the
+: 10 2 15  bar
+: 12 3 11 row
+- 16
+: 18 2 15 Rumbl
+: 20 1 15 ing
+: 22 2 16  down
+: 25 1 15  the
+: 26 3 15  lane
+- 30
+: 32 1 8 Some
+: 34 1 15  call
+: 37 1 16  him
+: 39 1 15  a
+: 41 4 15  thief
+- 46
+: 48 1 15 Some
+: 50 1 15  said
+: 52 1 16  he
+: 53 2 15  was
+: 56 3 15  in
+: 59 4 15 sane
+- 65
+: 67 2 15 Strain
+: 69 1 15 ing
+: 71 1 16  in
+: 73 1 15  the
+: 75 4 15  dark
+: 79 1 11 ness
+- 81
+: 83 2 15 Sleep
+: 85 1 15 ing
+: 87 1 16  in
+: 89 1 15  the
+: 91 5 15  day
+- 97
+: 99 1 15 That's
+: 101 2 16  what
+: 105 2 15  they
+: 109 7 15  say
+- 125
+: 129 1 8 A
+: 131 4 15  life
+: 135 2 16 less
+: 139 2 15  bo
+: 141 3 11 dy
+: 147 1 15  in
+: 149 1 15  a
+: 151 2 16  mot
+: 153 1 15 hy
+: 155 4 15  robe
+- 160
+: 162 1 15 And
+: 164 2 15  worn
+: 168 2 15  out
+: 172 3 15  hat
+: 178 1 15  a
+: 180 1 15  per
+: 182 1 15 fo
+: 184 1 16 ra
+: 186 1 15 ted
+: 188 3 15  coat
+- 192
+: 194 1 15 No
+: 196 1 15 bo
+: 198 1 15 dy's
+: 200 1 16  gon
+: 202 1 15 na
+: 204 1 15  miss
+: 206 1 11  him
+- 207
+: 209 1 15 Or
+: 211 1 15  gat
+: 213 1 15 her
+: 215 1 16  at
+: 217 1 15  his
+: 219 5 15  grave
+- 226
+: 228 1 15 That's
+: 230 1 16  what
+: 234 1 15  they
+: 238 11 15  say
+- 257
+: 276 2 16 What's
+: 280 2 16  your
+: 284 7 15  name,
+: 292 2 11  va
+: 294 2 13 ga
+: 296 10 15 bond?
+- 307
+: 309 1 11 Where
+: 311 1 11  have
+: 315 2 13  you
+: 319 11 13  been?
+- 338
+: 341 2 16 What's
+: 345 2 16  your
+: 349 6 15  name,
+: 357 2 11  va
+: 359 2 13 ga
+: 361 9 15 bond?
+- 371
+: 373 1 11 What
+: 375 2 11  have
+: 379 2 13  you
+: 383 13 13  seen?
+- 402
+: 405 1 16 Where
+: 407 1 16  do
+: 409 1 16  you
+: 411 2 15  come
+: 415 2 13  fro
+: 417 6 11 ~m~?
+- 432
+: 436 1 11 And
+: 438 1 11  what
+: 440 1 11  do
+: 442 1 13  you
+: 447 10 13  strive?
+- 458
+: 460 1 10 Now
+: 462 2 10  tell
+: 466 1 10  me
+: 468 3 10  'bout
+: 473 2 10  a
+: 477 2 11  va
+: 479 2 10 ga
+: 481 8 10 bond's
+: 490 18 8  life
+- 515
+: 518 3 15 A
+: 521 2 15 shes
+: 524 1 16  to
+: 526 4 15  a
+: 530 1 11 shes
+- 531
+: 532 1 15 The
+: 534 1 15  glow
+: 537 1 16  of
+: 540 2 15  flam
+: 542 5 15 beaus
+- 548
+: 550 1 15 Leaves
+: 553 1 16  of
+: 556 2 15  so
+: 558 2 15 cie
+: 560 2 11 ty
+- 563
+: 565 1 15 He
+: 566 1 15  was
+: 569 3 16  one
+: 573 1 15  of
+: 575 3 15  those
+- 579
+: 581 1 8 He
+: 582 1 8  was
+: 583 2 8  liv
+: 585 1 8 ing
+: 588 2 8  on
+: 591 2 8  o
+: 593 1 8 thers
+- 595
+: 597 1 8 Put
+: 599 1 8  all
+: 600 1 8  of
+: 601 1 8  us
+: 604 2 8  to
+: 607 3 8  shame
+- 613
+: 615 1 8 That's
+: 617 2 8  what
+: 621 3 8  they
+: 625 8 8  say
+- 641
+: 644 1 8 He
+: 646 4 8  walked
+: 651 2 8  with
+: 654 1 8  a
+: 656 1 8  limp
+- 658
+: 660 1 8 But
+: 662 1 8  he
+: 664 1 8  had
+: 665 2 8  been
+: 668 2 8  a
+: 670 4 8 round
+- 675
+: 677 1 8 From
+: 679 1 8  far
+: 681 3 8  east
+: 685 1 8  to
+: 687 3 8  west
+- 691
+: 693 1 8 With
+: 694 1 8  a
+: 696 1 8  north
+: 698 2 8  wind
+: 701 1 8  down
+: 703 2 8  south
+- 706
+: 708 1 8 He
+: 709 1 8  was
+: 712 2 8  bran
+: 714 2 8 ded
+: 717 2 8  an
+: 720 3 8  out
+: 723 1 8 law
+- 724
+: 725 1 8 It
+: 726 1 8  was
+: 728 2 8  time
+: 732 1 8  to
+: 734 2 8  re
+: 736 5 8 pay
+- 742
+: 744 1 8 That's
+: 746 1 8  what
+: 750 2 8  they
+: 754 9 8  say
+- 771
+: 791 4 8 What's
+: 796 2 8  your
+: 800 7 8  name,
+: 808 2 8  va
+: 810 2 8 ga
+: 812 9 8 bond?
+- 823
+: 825 1 8 Where
+: 827 2 8  have
+: 831 2 8  you
+: 835 12 8  been?
+- 854
+: 857 2 8 What's
+: 861 2 8  your
+: 865 7 8  name,
+: 873 2 8  va
+: 875 2 8 ga
+: 877 9 8 bond?
+- 887
+: 889 1 8 What
+: 891 3 8  have
+: 895 3 8  you
+: 899 15 8  seen?
+- 919
+: 921 1 8 Where
+: 923 1 8  do
+: 925 1 8  you
+: 927 2 8  come
+: 931 2 8  from
+: 933 8 8 ~?
+- 948
+: 951 1 8 And
+: 954 1 8  what
+: 956 1 8  did
+: 959 1 8  you~
+: 962 11 8  strive?
+- 974
+: 976 1 8 Now
+: 978 2 8  tell
+: 982 1 8  me
+: 984 3 8  'bout
+: 990 2 8  a
+: 993 1 8  va
+: 995 2 8 ga
+: 998 5 8 bond's
+: 1005 17 8  life
+- 1039
+: 1295 1 8 Don't
+: 1297 1 8  call
+: 1299 1 8  it
+: 1301 1 8  mur
+: 1304 1 8 der
+- 1305
+: 1307 1 8 How
+: 1309 2 8  can
+: 1312 1 8  you
+: 1316 6 8  dare?
+- 1323
+: 1325 1 8 Turn
+: 1326 1 8  'round
+: 1328 2 8  and
+: 1331 1 8  leave
+- 1332
+: 1333 6 8 You
+: 1340 1 8  shouldn't
+: 1343 2 8  real
+: 1347 1 8 ly
+: 1348 6 8  care
+- 1355
+: 1357 1 8 The
+: 1359 1 8  whole
+: 1361 1 8  case
+: 1364 1 8  is
+: 1365 4 8  clos
+: 1370 1 8 ed
+: 1372 1 8  in
+: 1374 1 8  a
+: 1376 1 8  pau
+: 1378 1 8 per's
+: 1380 1 8  grave
+- 1381
+: 1381 5 8 That's
+: 1389 2 8  what
+: 1392 1 8  they
+: 1395 16 8  say
+- 1419
+: 1437 1 8 Rest
+: 1441 1 8  in
+: 1445 8 8  peace,
+: 1454 1 8  va
+: 1456 1 8 ga
+: 1458 9 8 bond?
+- 1468
+: 1470 1 8 Where
+: 1472 1 8  have
+: 1474 3 8  you
+: 1479 10 8  been?
+- 1498
+: 1502 1 8 Rest
+: 1506 1 8  in
+: 1509 7 8  peace,
+: 1519 1 8  va
+: 1521 1 8 ga
+: 1522 10 8 bond?
+- 1533
+: 1535 1 8 What
+: 1537 1 8  have
+: 1539 1 8  you
+: 1542 15 8  seen?
+- 1563
+: 1566 1 8 Where
+: 1568 1 8  did
+: 1570 2 8  you
+: 1573 2 8  come
+: 1576 9 8  from?
+- 1594
+: 1597 1 8 And
+: 1599 1 8  what
+: 1602 1 8  did
+: 1604 1 8  you
+: 1606 12 8  strive?
+- 1619
+: 1621 1 8 Now
+: 1623 2 8  tell
+: 1627 1 8  me
+: 1629 5 8  'bout
+: 1636 1 8  a
+: 1637 1 8  va
+: 1639 2 8 ga
+: 1643 5 8 bond's
+: 1650 28 8  life
+- 1681
+: 1683 6 8 Rest
+: 1699 1 8  in
+: 1703 6 8  peace,
+: 1711 1 8  va
+: 1713 1 8 ga
+: 1716 9 8 bond
+- 1726
+: 1728 1 8 Where
+: 1731 1 8  have
+: 1732 2 8  you
+: 1736 11 8  been?
+- 1756
+: 1760 1 8 Rest
+: 1763 2 8  in
+: 1767 8 8  peace,
+: 1776 1 8  va
+: 1779 1 8 ga
+: 1780 10 8 bond
+- 1791
+: 1793 1 8 What
+: 1795 2 8  have
+: 1798 1 8  you
+: 1801 13 8  seen?
+- 1821
+: 1824 1 8 Where
+: 1826 1 8  did
+: 1829 1 8  you
+: 1831 2 8  come
+: 1835 8 8  from?
+- 1852
+: 1855 1 8 And
+: 1857 1 8  what
+: 1860 1 8  did
+: 1862 2 8  you
+: 1865 9 8  strive?
+- 1877
+: 1879 1 8 The
+: 1881 2 8  sto
+: 1885 1 8 ry
+: 1888 3 8  of
+: 1892 2 8  a
+: 1897 1 8  va
+: 1899 2 8 ga
+: 1902 5 8 bond's
+: 1909 15 8  life
+- 1932
+: 1946 3 8 The
+: 1951 1 8  sto
+: 1952 1 8 ry
+: 1955 2 8  of
+: 1959 1 8  a
+: 1961 1 8  va
+: 1963 3 8 ga
+: 1967 6 8 bond's
+: 1975 24 8  life
+E

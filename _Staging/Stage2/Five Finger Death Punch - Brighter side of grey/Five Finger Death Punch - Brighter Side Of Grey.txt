@@ -1,0 +1,261 @@
+#TITLE:Brighter Side Of Grey
+#ARTIST:Five Finger Death Punch
+#LANGUAGE:English
+#GENRE:Metal
+#YEAR:2020
+#CREATOR:LDD
+#MP3:Five Finger Death Punch - Brighter Side Of Grey.mp3
+#VIDEO:Five Finger Death Punch - Brighter Side Of Grey.mp4
+#BPM:123.00
+#GAP:23804
+: 0 1 8 I'm
+: 1 2 8  writ
+: 5 3 8 ing
+: 9 1 8  this
+: 11 2 8  in
+: 14 5 8  case
+: 20 2 8  I'm
+: 24 3 8  gone
+: 29 1 8  to
+: 31 4 8 mor
+: 36 5 8 row
+- 49
+: 63 1 8 I'm
+: 64 1 8  writ
+: 66 1 8 ing
+: 69 3 8  this
+: 73 2 8  in
+: 77 5 8  case
+: 84 2 8  I've
+: 88 2 8  mo
+: 91 1 8 ved
+: 93 2 8  a
+: 97 3 8 long
+- 108
+: 126 1 8 There's
+: 127 1 8  some
+: 128 2 8 thing
+: 132 2 8  that
+: 136 2 8  I
+: 140 6 8  hope
+: 147 1 8  you'll
+: 149 6 8  re
+: 157 2 8 mem
+: 160 6 8 ber
+- 174
+: 189 1 8 That
+: 191 2 8  life
+: 195 1 8  is
+: 197 2 8  not
+: 201 2 8  a
+: 204 7 8  game,
+: 213 3 8  it's
+: 218 1 8  a
+: 220 7 8  song
+- 235
+: 252 1 8 So
+: 255 1 8  take
+: 258 1 8  the
+: 260 6 8  best
+: 268 4 8  parts
+: 274 1 8  of
+: 276 7 8  me
+- 284
+: 286 3 8 Lock
+: 290 1 8 ed
+: 292 2 8  a
+: 296 1 8 way
+: 298 2 8  with
+: 301 3 8 out
+: 305 1 8  the
+: 307 8 8  keys
+- 316
+: 318 1 8 And
+: 319 1 8  know
+: 322 1 8  that
+: 324 3 8  I'm
+: 328 3 8  for
+: 332 3 8 ever
+: 336 2 8  by
+: 339 2 8  your
+: 343 22 8  side
+- 374
+: 377 1 8 When
+: 379 1 8  the
+: 381 13 8  lights
+: 396 14 8  go
+: 412 15 8  down
+- 435
+: 444 3 8 Know
+: 449 1 8  that
+: 451 2 8  I
+: 455 2 8  am
+: 458 4 8  nev
+: 464 3 8 er
+: 468 3 8  far
+: 473 1 8  a
+: 474 9 8 way
+- 491
+: 502 2 8 When
+: 505 2 8  the
+: 509 12 8  sun
+: 523 15 8  burns
+: 539 12 8  out
+- 559
+: 568 1 8 I'll
+: 570 1 8  be
+: 572 2 8  wait
+: 575 1 8 ing
+: 578 3 8  on
+: 582 2 8  the
+: 586 4 8  bright
+: 591 2 8 er
+: 595 3 8  side
+: 600 1 8  of
+: 601 14 8  grey
+- 631
+: 696 1 8 If
+: 698 1 8  you're
+: 699 3 8  read
+: 704 1 8 ing
+: 705 2 8  this,
+: 709 2 8  I
+: 712 5 8  know
+: 719 2 8  you're
+: 725 1 8  feel
+: 728 1 8 ing
+: 729 10 8  sorrow
+- 747
+: 758 1 8 If
+: 760 1 8  you're
+: 762 2 8  hear
+: 765 2 8 ing
+: 768 2 8  this,
+: 772 2 8  I
+: 775 5 8  know
+: 782 2 8  you're
+: 785 1 8  pro
+: 788 2 8 bably
+: 792 8 8  sca
+: 806 1 8 red
+- 818
+: 822 1 8 Just
+: 824 3 8  know
+: 829 1 8  that
+: 831 2 8  all
+: 835 2 8  the
+: 839 4 8  things
+: 845 2 8  you
+: 849 2 8  want
+: 853 1 8  are
+: 856 2 8  bor
+: 859 7 8 row
+: 875 1 8 ed
+- 884
+: 887 1 8 And
+: 889 2 8  all
+: 892 1 8  you
+: 895 3 8  get
+: 899 2 8  to
+: 902 4 8  keep
+: 908 3 8  is
+: 913 3 8  all
+: 917 1 8  you've
+: 919 4 8  shar
+: 924 3 8 ed
+- 935
+: 951 1 8 So
+: 953 2 8  wipe
+: 956 1 8  a
+: 959 4 8 way
+: 965 1 8  the
+: 967 3 8  tears
+: 972 1 8  for
+: 974 7 8  me
+- 982
+: 984 3 8 Know
+: 988 1 8  that
+: 990 3 8  we've
+: 995 2 8  made
+: 998 4 8  his
+: 1004 1 8 to
+: 1006 6 8 ry
+- 1013
+: 1015 1 8 Re
+: 1018 1 8 mem
+: 1019 1 8 ber
+: 1021 2 8  no
+: 1025 2 8  one
+: 1029 3 8  ever
+: 1034 3 8  real
+: 1038 5 8 ly
+: 1045 16 8  dies
+- 1071
+: 1075 1 8 When
+: 1077 1 8  the
+: 1080 12 8  lights
+: 1094 14 8  go
+: 1110 14 8  down
+- 1132
+: 1142 2 8 Know
+: 1146 1 8  that
+: 1148 3 8  I
+: 1152 2 8  am
+: 1156 4 8  nev
+: 1162 3 8 er
+: 1166 3 8  far
+: 1171 1 8  a
+: 1173 10 8 way
+- 1191
+: 1201 1 8 When
+: 1203 1 8  the
+: 1205 14 8  sun
+: 1221 14 8  burns
+: 1239 9 8  out
+- 1256
+: 1265 1 8 I'll
+: 1267 1 8  be
+: 1269 2 8  wait
+: 1272 2 8 ing
+: 1275 5 8  on
+: 1281 1 8  the
+: 1284 4 8  bright
+: 1289 3 8 er
+: 1293 3 8  side
+: 1298 1 8  of
+: 1300 11 8  grey
+- 1327
+: 1648 1 8 When
+: 1650 1 8  the
+: 1660 4 8  lights
+: 1666 12 8  go
+: 1681 11 8  down
+- 1700
+: 1714 3 8 Know
+: 1718 1 8  that
+: 1720 2 8  I
+: 1724 2 8  am
+: 1728 4 8  nev
+: 1734 2 8 er
+: 1738 3 8  far
+: 1742 1 8  a
+: 1745 12 8 way
+- 1769
+: 1773 1 8 When
+: 1775 1 8  the
+: 1777 14 8  sun
+: 1793 13 8  burns
+: 1808 10 8  out
+- 1826
+: 1837 1 8 I'll
+: 1839 1 8  be
+: 1840 2 8  wait
+: 1844 2 8 ing
+: 1847 4 8  on
+: 1853 1 8  the
+: 1855 1 8  bright
+: 1856 7 8 er
+: 1865 3 8  side
+: 1869 1 8  of
+: 1871 17 8  grey
+E

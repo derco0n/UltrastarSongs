@@ -1,0 +1,532 @@
+#TITLE:Thekenmädchen
+#ARTIST:Versengold
+#LANGUAGE:German
+#GENRE:Folk-Rock
+#YEAR:2019
+#CREATOR:LDD
+#MP3:Versengold - Thekenmädchen.mp3
+#VIDEO:Versengold - Thekenmädchen.mp4
+#BPM:136.00
+#GAP:14415
+: 0 1 9 Mein
+: 2 1 9  Vad
+: 3 1 9 der
+: 5 1 9  gab
+: 8 1 9  mir
+: 9 4 9  schon
+: 15 1 9  so
+: 16 1 9  man
+: 19 1 9 chen
+: 21 1 9  gu
+: 23 3 9 ten
+: 28 1 9  Rat
+- 29
+: 30 1 9 So
+: 32 1 9  wie:
+: 33 1 9  „Mein
+: 35 2 9  Jun
+: 38 1 9 ge,
+: 40 1 9  ge
+: 42 1 9 be
+: 43 1 9  nie
+: 46 1 9 mals
+: 48 8 9  auf
+- 60
+: 62 1 9 Voll
+: 63 1 9 bringe
+: 65 1 9  ab
+: 67 1 9  und
+: 69 1 9  zu
+: 71 5 9  mal
+: 77 1 9  ei
+: 79 1 9 ne
+: 80 2 9  gu
+: 84 1 9 te
+: 86 4 9  Tat
+- 91
+: 93 1 9 Vertrau'
+: 94 1 9  dir
+: 96 1 9  selbst
+: 98 1 9  und
+: 100 1 9  schaff'
+: 101 1 9  dir
+: 103 1 9  ein
+: 105 1 9  Zu
+: 107 9 9 haus'
+- 121
+: 123 1 9 Sei
+: 125 1 9  lieb
+: 127 1 9  zur
+: 129 1 9  Da
+: 130 1 9 men
+: 132 4 9 welt
+: 139 1 9  und
+: 141 1 9  fan
+: 142 1 9 ge
+: 143 1 9  dir
+: 146 1 9  nichts
+: 149 3 9  ein
+- 153
+: 155 1 9 Und
+: 156 1 9  feier'
+: 158 2 9  auch
+: 161 1 9  mal
+: 163 1 9  in
+: 165 1 9  die
+: 166 1 9  Näch
+: 168 2 9 te
+: 171 8 9  rein
+- 184
+: 186 1 9 Mach'
+: 187 1 9  Feh
+: 189 1 9 ler
+: 191 1 9  wie
+: 193 1 9  du
+: 194 5 9  willst
+: 202 1 9  und
+: 203 1 9  lern'
+: 205 1 9  draus
+: 207 1 9  je
+: 209 1 9 den
+: 211 1 9  Tag
+- 213
+: 215 2 9 Doch
+: 219 2 9  eins
+: 222 2 9  sei
+: 226 2 9  dir
+: 230 2 9  ge
+: 234 7 9 sagt
+- 242
+: 244 1 9 Verlieb'
+: 246 1 9  dich
+: 249 2 9  nie,
+: 253 2 9  nie,
+: 257 5 9  nie,
+: 265 2 9  nie
+: 269 2 9 mals
+: 272 2 9  nie
+- 275
+: 277 1 9 In
+: 279 1 9  das
+: 281 2 9  Mäd
+: 285 2 9 chen
+: 289 1 9  hin
+: 291 1 9 ter
+: 293 1 9  der
+: 295 2 9  The
+: 299 5 9 ke
+- 305
+: 307 1 9 Verlieb
+: 308 1 9  dich
+: 310 1 9  nie,
+: 312 2 9  nie,
+: 316 2 9  nie,
+: 319 4 9  nie
+: 327 2 9 mals
+: 331 1 9  nie
+- 333
+: 335 2 9 In
+: 339 1 9  das
+: 342 2 9  Mäd
+: 346 2 9 chen
+: 350 1 9  hin
+: 353 1 9 ter
+: 356 1 9  der
+: 358 8 9  Bar
+- 367
+: 369 1 9 E
+: 370 1 9 gal
+: 372 1 9  wie
+: 374 2 9  schön
+: 377 1 9  sie
+: 379 3 9  auch
+: 384 1 9  ist
+- 385
+: 385 1 9 E
+: 387 1 9 gal
+: 389 1 9  wie
+: 392 1 9  durs
+: 393 1 9 tig
+: 395 1 9  du
+: 397 1 9  bist
+- 398
+: 399 1 9 Es
+: 401 2 9  ist
+: 404 2 9  ihr
+: 408 1 9  Job,
+: 410 1 9  dass
+: 413 2 9  sie
+: 416 1 9  dich
+: 418 7 9  mag
+- 429
+: 431 1 9 Gibt
+: 433 1 9  sie
+: 434 1 9  dir
+: 436 1 9  auch
+: 438 1 9  mal
+: 439 1 9  ein'
+: 441 1 9  aus,
+: 442 4 9  sie
+: 448 1 9  geht
+: 449 1 9  all
+: 451 2 9 eine
+: 454 1 9  nach
+: 456 1 9  Haus
+- 457
+: 459 4 9 Jun
+: 464 1 9 ge
+: 467 3 9  eins
+: 471 2 9  sei
+: 475 2 9  dir
+: 479 1 9  ge
+: 481 9 9 sagt
+- 491
+: 493 1 9 Verlieb'
+: 495 1 9  dich
+: 498 2 9  nie,
+: 502 2 9  nie,
+: 506 3 9  nie
+: 511 1 9  in
+: 512 1 9  das
+: 514 1 9  Mäd
+: 517 3 9 chen
+: 522 1 9  hin
+: 524 1 9 ter
+: 527 1 9  der
+: 529 7 9  Bar
+- 545
+: 559 1 9 So
+: 560 1 9  sprach
+: 562 1 9  mein
+: 564 1 9  Vad
+: 566 1 9 der
+: 568 4 9  einst
+: 575 1 9  und
+: 576 1 9  ja
+: 578 1 9  es
+: 580 1 9  wurd'
+: 582 1 9  mir
+: 584 4 9  klar
+- 589
+: 591 1 9 Als
+: 593 1 9  ich
+: 595 1 9  in
+: 597 1 9  mei
+: 599 1 9 ne
+: 603 1 9  ers
+: 604 1 9 te
+: 606 3 9  Knei
+: 610 1 9 pe
+: 612 5 9  ging
+- 619
+: 621 1 9 Das
+: 623 1 9  The
+: 624 1 9 ken
+: 627 1 9 mäd
+: 628 1 9 chen
+: 630 4 9  sah
+- 635
+: 637 1 9 Und
+: 639 1 9  lä
+: 640 1 9 chelnd
+: 642 1 9  an
+: 644 1 9  der
+: 646 4 9  Bar
+- 651
+: 653 1 9 An
+: 655 1 9  i
+: 657 1 9 hren
+: 658 1 9  Lip
+: 660 1 9 pen
+: 663 1 9  und
+: 665 1 9  dem
+: 667 1 9  Zapf
+: 669 3 9 hahn
+: 673 4 9  hing
+- 681
+: 683 1 9 Wie
+: 685 1 9  sie
+: 687 1 9  das
+: 689 1 9  Bier
+: 690 1 9  vom
+: 692 4 9  Fass
+: 699 1 9  in
+: 700 1 9  mei
+: 702 1 9 nen
+: 703 1 9  Be
+: 705 2 9 cher
+: 709 3 9  goss
+- 713
+: 715 1 9 Das
+: 717 1 9  war
+: 719 1 9  Äs
+: 720 1 9 the
+: 722 1 9 tik
+: 724 1 9  pur
+: 726 1 9  und
+: 727 1 9  ich
+: 729 1 9  be
+: 731 6 9 schloss
+- 743
+: 745 1 9 Ja
+: 747 1 9  nir
+: 749 1 9 gends
+: 751 1 9  auf
+: 752 1 9  der
+: 754 5 9  Welt,
+: 762 1 9  da
+: 763 1 9  könnt'
+: 765 1 9  es
+: 767 1 9  schö
+: 768 1 9 ner
+: 770 5 9  sein
+- 776
+: 778 2 9 Und
+: 782 2 9  zu
+: 786 2 9  spät
+: 790 1 9  fiel
+: 791 1 9  mir
+: 793 9 9  ein
+- 803
+: 805 1 9 „Verlieb'
+: 806 1 9  dich
+: 808 1 9  nie,
+: 810 2 9  nie,
+: 813 1 9  nie,
+: 817 5 9  nie
+: 824 2 9 mals
+: 828 1 9  nie
+- 830
+: 832 2 9 In
+: 836 1 9  das
+: 837 1 9  Mäd
+: 840 2 9 chen
+: 844 2 9  hin
+: 848 1 9 ter
+: 851 2 9  der
+: 854 3 9  The
+: 859 4 9 ke
+- 864
+: 866 1 9 Verlieb'
+: 867 1 9  dich
+: 869 1 9  nie,
+: 871 2 9  nie,
+: 875 2 9  nie,
+: 878 4 9  nie
+: 886 3 9 mals
+: 893 2 9  nie
+- 896
+: 898 1 9 In
+: 900 1 9  das
+: 902 2 9  Mäd
+: 906 2 9 chen
+: 910 1 9  hin
+: 913 1 9 ter
+: 915 1 9  der
+: 917 8 9  Bar
+- 926
+: 928 1 9 Egal
+: 930 1 9  wie
+: 932 1 9  schön
+: 934 1 9  sie
+: 937 1 9  auch
+: 938 1 9  ist
+- 939
+: 940 3 9 Egal
+: 944 1 9  wie
+: 946 1 9  durs
+: 947 1 9 tig
+: 949 1 9  du
+: 952 1 9  bist
+- 953
+: 954 1 9 Es
+: 955 4 9  ist
+: 961 1 9  ihr
+: 962 3 9  Job,
+: 967 2 9  dass
+: 972 3 9  sie
+: 976 1 9  dich
+: 978 10 9  mag
+- 989
+: 991 1 9 Gibt
+: 992 1 9  sie
+: 994 1 9  dir
+: 995 1 9  auch
+: 998 1 9  mal
+: 999 1 9  ein'
+: 1001 3 9  aus,
+: 1006 1 9  sie
+: 1007 1 9  geht
+: 1009 1 9  all
+: 1011 3 9 eine
+: 1015 1 9  nach
+: 1017 3 9  Haus
+- 1021
+: 1023 1 9 Jun
+: 1025 1 9 ge
+: 1027 2 9  eins
+: 1030 2 9  sei
+: 1034 2 9  dir
+: 1038 1 9  ge
+: 1040 9 9 sagt
+- 1050
+: 1052 1 9 Verlieb'
+: 1053 1 9  dich
+: 1055 1 9  nie,
+: 1058 1 9  nie,
+: 1061 2 9  nie
+: 1065 3 9  in
+: 1070 1 9  das
+: 1072 1 9  Mäd
+: 1073 2 9 chen
+: 1077 2 9  hin
+: 1081 1 9 ter
+: 1084 1 9  der
+: 1088 7 9  Bar
+- 1113
+: 1337 1 9 Ja
+: 1338 1 9  das
+: 1340 1 9  ist
+: 1342 1 9  mir
+: 1343 1 9  seit
+: 1345 5 9 dem
+: 1352 1 9  erst
+: 1353 1 9  tau
+: 1355 1 9 send
+: 1357 1 9 mal
+: 1359 1 9  pas
+: 1360 5 9 siert
+- 1366
+: 1368 1 9 Ich
+: 1370 1 9  hab
+: 1372 1 9  'nen
+: 1373 1 9  Korb
+: 1375 1 9  und
+: 1376 1 9  sie
+: 1378 1 9  mein
+: 1380 1 9  Geld
+: 1381 1 9  kas
+: 1383 8 9 siert
+- 1397
+: 1399 1 9 Und
+: 1400 1 9  hab'
+: 1402 1 9  ich
+: 1404 1 9  mal
+: 1405 1 9  'nen
+: 1407 5 9  Jung'
+: 1414 1 9  sollt'
+: 1415 1 9  selber
+: 1417 1 9  Vad
+: 1419 1 9 der
+: 1420 1 9  sein
+- 1421
+: 1422 5 9 Dann
+: 1429 4 9  trichter'
+: 1434 6 9  ich
+: 1442 2 9  ihm
+: 1445 14 9  ein
+- 1468
+: 1472 1 9 „Verlieb'
+: 1474 1 9  dich
+: 1475 1 9  nie,
+: 1477 2 9  nie,
+: 1481 2 9  nie,
+: 1484 10 9  nie
+: 1496 2 9 mals
+: 1499 2 9  nie
+- 1502
+: 1504 1 9 In
+: 1506 1 9  das
+: 1508 2 9  Mäd
+: 1511 3 9 chen
+: 1516 1 9  hin
+: 1519 1 9 ter
+: 1520 1 9  der
+: 1522 1 9  The
+: 1524 1 9 ke
+- 1525
+: 1527 5 9 Verlieb'
+: 1534 1 9  dich
+: 1536 1 9  nie,
+: 1537 4 9  nie,
+: 1543 2 9  nie,
+: 1547 6 9  nie
+: 1554 6 9 mals
+: 1562 2 9  nie
+- 1565
+: 1567 1 9 In
+: 1569 1 9  das
+: 1570 2 9  Mäd
+: 1574 2 9 chen
+: 1578 1 9  hin
+: 1581 1 9 ter
+: 1583 1 9  der
+: 1585 9 9  Bar
+- 1595
+: 1597 1 9 Egal
+: 1599 1 9  wie
+: 1600 1 9  schön
+: 1602 1 9  sie
+: 1605 1 9  auch
+: 1606 1 9  ist
+- 1607
+: 1608 4 9 Egal
+: 1613 1 9  wie
+: 1615 1 9  durs
+: 1616 1 9 tig
+: 1619 1 9  du
+: 1620 1 9  bist
+- 1621
+: 1622 5 9 Es
+: 1628 1 9  ist
+: 1630 1 9  ihr
+: 1632 3 9  Job,
+: 1636 2 9  dass
+: 1640 2 9  sie
+: 1644 1 9  dich
+: 1646 9 9  mag
+- 1656
+: 1658 1 9 Gibt
+: 1660 1 9  sie
+: 1661 1 9  dir
+: 1664 2 9  auch
+: 1667 1 9  mal
+: 1669 4 9  ein'
+: 1674 1 9  aus,
+: 1675 1 9  sie
+: 1677 1 9  geht
+: 1678 3 9  all
+: 1683 1 9 eine
+: 1684 1 9  nach
+: 1686 3 9  Haus
+- 1690
+: 1692 1 9 Junge
+: 1694 2 9  eins
+: 1698 2 9  sei
+: 1702 3 9  dir
+: 1706 1 9  gesagt
+- 1707
+: 1708 6 9 Verlieb'
+: 1723 2 9  dich
+: 1726 2 9  nie,
+: 1730 2 9  nie,
+: 1734 10 9  nie
+: 1745 2 9  in
+: 1749 1 9  das
+: 1751 1 9  Mäd
+: 1752 1 9 chen
+- 1753
+: 1754 1 9 Verlieb'
+: 1756 2 9  dich
+: 1760 2 9  nie,
+: 1764 4 9  nie,
+: 1769 1 9  nie
+: 1770 1 9  in
+: 1773 2 9  das
+: 1776 2 9  Mäd
+: 1780 1 9 chen
+: 1783 1 9  hin
+: 1784 1 9 ter
+: 1786 1 9  der
+: 1788 16 9  Bar
+E
