@@ -6,9 +6,13 @@ Due to legal reasons, this will just contain the .txt-files which are used by th
 However you might be able to provide your own audio/video as most of them can be found around the internet on sites like youtube.
 You're responsible for staying legal. Don't blame me if you break your local law.
 
+You may need a tool like yt-dlp (https://github.com/yt-dlp/yt-dlp):
+`sudo apt install python3 python3-pip`
+`pip3 install yt-dlp`
+
 The following linux-commands might come in handy for this:
 
-- `youtube-dl --audio-quality 0 --audio-format mp3 --recode-video mp4 -v <VIDEO-URL>`
+- `yt-dlp--audio-quality 0 --audio-format mp3 --recode-video mp4 -v <VIDEO-URL>`
 - `ffmpeg -i /path/to/downloaded/video.avi /path/to/target/audio.mp3`
 
 Furthermore you can create own songs using sites like:
