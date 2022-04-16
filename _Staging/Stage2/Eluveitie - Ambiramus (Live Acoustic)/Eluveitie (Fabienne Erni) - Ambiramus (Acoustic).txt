@@ -1,0 +1,211 @@
+#TITLE:Ambiramus (Acoustic)
+#ARTIST:Eluveitie (Fabienne Erni)
+#LANGUAGE:English
+#YEAR:2020
+#CREATOR:LDD
+#MP3:Eluveitie - Ambiramus Live.mp3
+#VIDEO:Eluveitie - Ambiramus Live.avi
+#BPM:108.00
+#GAP:21495
+: 0 3 6 Some
+: 5 3 6 where
+: 10 1 6  a
+: 11 9 6 far
+- 26
+: 29 1 6 A
+: 30 5 6  cry
+: 37 6 6  ra~ng
+: 44 14 6  ou~t
+- 59
+: 61 2 6 Wond
+: 64 4 6 rous
+: 69 7 6  words
+: 78 2 6  e
+: 81 3 6 cho
+: 86 5 6 ing
+- 92
+: 94 6 6 In
+: 101 1 6  my
+: 103 3 6  rest
+: 107 2 6 less
+: 110 7 6  hea~rt
+- 124
+: 127 1 6 A
+: 129 1 6  call
+: 132 1 6  I
+: 134 5 6  hea~rd
+- 140
+: 142 1 6 In
+: 144 2 6  three
+: 148 1 6  diff
+: 149 2 6 erent
+: 152 4 6  ton
+: 158 1 6 gues
+- 159
+: 161 1 6 Of
+: 164 1 6  such
+: 165 1 6  a
+: 167 3 6 wing
+: 171 3 6  ma
+: 175 2 6 jes
+: 178 11 6 ty
+- 190
+: 192 2 6 Soft
+: 195 2 6  and
+: 198 1 6  si
+: 199 3 6 lent
+: 203 1 6 ly
+- 204
+: 206 1 6 Whis
+: 208 1 6 pe
+: 210 2 6 ring
+: 213 3 6  my
+: 217 4 6  na~me
+- 222
+: 224 2 6 I
+: 227 2 6  cou~ld
+: 230 3 6  not
+: 235 1 6  op
+: 239 7 6 pose
+- 247
+: 249 1 6 And
+: 252 3 6  so
+: 257 2 6  I
+: 260 3 6  set
+: 264 2 6  out
+: 268 2 6  in
+: 272 3 6 to
+: 276 3 6  the
+: 280 2 6  un
+: 283 1 6 known
+- 285
+: 287 2 6 I
+: 291 2 6  spread
+: 294 2 6  my
+: 298 2 6  arms
+: 302 2 6  to
+: 305 19 6  fa~ll...
+- 326
+: 328 2 6 Am
+: 331 1 6 bi
+: 332 3 6 ra
+: 336 19 6 mus
+- 362
+: 365 2 6 Co
+: 369 1 6 ver
+: 371 4 6  me
+: 376 1 6  in
+: 379 1 6  your
+: 381 4 6  dark
+: 387 1 6 est
+: 388 2 6  shel
+: 391 17 6 ter
+- 422
+: 474 1 6 I
+: 476 1 6  have
+: 477 3 6  lost
+: 481 2 6  con
+: 484 6 6 trol
+- 491
+: 493 1 6 And
+: 494 1 6  drift
+: 497 1 6  a
+: 499 2 6 far
+- 502
+: 504 1 6 Into
+: 505 1 6  a
+: 508 5 6  da~rk
+: 515 4 6 ness
+: 521 2 6  ar
+: 524 11 6 cane
+- 537
+: 539 3 6 All
+: 544 1 6  that
+: 545 1 6  I've
+: 547 4 6  known
+- 552
+: 554 1 6 Blur
+: 555 1 6 red
+: 556 1 6  in
+: 559 1 6 to
+: 561 1 6  a
+: 563 1 6  pale
+- 565
+: 567 3 6 And
+: 571 2 6  dis
+: 574 2 6 tant
+: 578 3 6  me
+: 582 1 6 mo
+: 584 10 6 ry
+- 595
+: 597 2 6 And
+: 600 3 6  so
+: 604 2 6  I
+: 608 3 6  set
+: 612 2 6  out
+: 616 3 6  in
+: 620 2 6 to
+: 624 2 6  the
+: 628 1 6  un
+: 631 3 6 known
+- 635
+: 637 2 6 I
+: 640 3 6  spread
+: 644 2 6  my
+: 648 2 6  arms
+: 652 1 6  to
+: 655 5 6  fa~ll...
+- 661
+: 663 1 6 Am
+: 664 1 6 bi
+: 665 3 6 ra
+: 669 25 6 mus
+- 695
+: 697 3 6 Co
+: 702 1 6 ver
+: 703 3 6  me
+: 708 1 6  in
+: 710 1 6  your
+: 713 3 6  dark
+: 717 1 6 est
+: 720 3 6  shel
+: 724 28 6 ter
+- 766
+: 992 1 6 And
+: 994 3 6  I
+: 998 1 6  spread
+: 999 1 6  my
+: 1000 5 6  arms
+: 1007 1 6  to
+: 1010 44 6  fa~ll...
+- 1055
+: 1057 1 6 Am
+: 1059 1 6 bi
+: 1060 2 6 ra
+: 1064 28 6 mus
+- 1093
+: 1095 2 6 Co
+: 1098 1 6 ver
+: 1100 4 6  me
+: 1105 1 6  in
+: 1107 1 6  your
+: 1109 4 6  dark
+: 1115 1 6 est
+: 1116 4 6  shel
+: 1123 25 6 ter
+- 1162
+: 1180 6 6 Am
+: 1188 1 6 bi
+: 1190 2 6 ra
+: 1193 22 6 mus
+- 1218
+: 1220 4 6 Co
+: 1225 1 6 ver
+: 1226 5 6  me
+: 1232 1 6  in
+: 1234 2 6  your
+: 1238 3 6  dark
+: 1242 1 6 est
+: 1244 2 6  shel
+: 1247 29 6 ter
+E

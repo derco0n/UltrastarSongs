@@ -1,0 +1,331 @@
+#TITLE:Heart of the hurricane
+#ARTIST:Beyond the Black
+#LANGUAGE:English
+#GENRE:Metal
+#YEAR:2018
+#CREATOR:LDD
+#MP3:BEYOND THE BLACK - Heart Of The Hurricane.mp3
+#VIDEO:BEYOND THE BLACK - Heart Of The Hurricane.mp4
+#BPM:144.00
+#GAP:14786
+: 0 6 0 Wide
+: 8 17 0  eyes,
+: 32 6 0  dark
+: 40 10 0  skies
+- 51
+: 53 1 0 Some
+: 55 1 0 thing's
+: 57 24 0  screa
+: 82 6 0 min'
+: 90 3 0  in
+: 93 19 0 side
+- 124
+: 128 2 0 So
+: 132 7 0  free
+: 141 13 0  fall
+: 160 1 0  in
+: 162 1 0 to
+: 164 6 0  the
+: 172 3 0  night
+: 176 6 0  storm
+- 183
+: 185 1 0 Face
+: 187 1 0  your
+: 189 25 0  de
+: 215 2 0 mons
+: 219 2 0  to
+: 222 23 0 night
+- 250
+: 252 1 0 Oh
+: 255 2 0  there
+: 258 2 0  is
+: 262 2 0  no
+: 266 3 0  way
+: 270 1 0  to
+: 273 2 0  hide
+: 276 4 0  it
+- 282
+: 284 1 0 Now
+: 286 1 0  all
+: 287 1 0  the
+: 289 2 0  blood
+: 293 2 0  and
+: 297 3 0  pressure's
+: 301 2 0  ri
+: 305 6 0 sing
+- 312
+: 314 1 0 I
+: 316 1 0  can
+: 318 1 0  feel
+: 320 7 0  the
+: 329 2 0  thun
+: 332 19 0 der
+- 353
+: 355 1 0 Run
+: 356 1 0 ning
+: 358 1 0  through
+: 360 1 0  my
+: 362 5 0  veins
+- 368
+: 370 1 0 Run
+: 371 1 0 ning
+: 373 1 0  through
+: 375 3 0  my
+: 379 1 0  veins
+- 381
+: 383 2 0 I
+: 386 1 0  can
+: 388 1 0  feel
+: 389 4 0  the
+: 395 2 0  thun
+: 398 16 0 der
+- 415
+: 417 1 0 To
+: 419 11 0 night
+- 431
+: 433 1 0 To
+: 434 13 0 night
+- 448
+: 450 1 0 When
+: 452 1 0  dark
+: 454 14 0 ness
+: 470 3 0  stri
+: 474 4 0 kes
+- 479
+: 481 1 0 And
+: 483 1 0  all
+: 485 2 0  the
+: 489 3 0  hearts
+: 493 8 0  ig
+: 503 7 0 nite
+- 511
+: 513 1 0 I
+: 515 1 0  can
+: 517 1 0  feel
+: 519 2 0  the
+: 523 5 0  thun
+: 531 17 0 der
+- 549
+: 551 1 0 Run
+: 553 1 0 ning
+: 555 1 0  through
+: 556 2 0  my
+: 560 1 0  veins
+- 561
+: 561 6 0 I'm
+: 572 1 0  the
+: 574 1 0  heart
+: 576 4 0  of
+: 581 1 0  the
+: 583 1 0  hur
+: 585 3 0 ri
+: 589 8 0 cane
+- 616
+: 659 6 0 Dark
+: 666 15 0  stars,
+: 688 3 0  burn
+: 697 4 0 ing
+: 702 7 0  hearts
+- 710
+: 712 1 0 You're
+: 714 1 0  not
+: 716 3 0  a
+: 720 22 0 lo~ne
+: 744 1 0  in
+: 747 1 0  this
+: 749 18 0  fight
+- 776
+: 787 2 0 Just
+: 790 11 0  breathe
+: 803 11 0  in,
+: 819 1 0  your
+: 821 2 0  elec
+: 825 2 0 tric
+: 828 13 0  skin
+- 842
+: 844 1 0 Will
+: 845 1 0  ex
+: 848 23 0 plo~de
+: 872 2 0  in
+: 876 3 0 to
+: 881 21 0  life
+- 904
+: 906 3 0 Oh
+: 911 1 0  you
+: 912 1 0  know
+: 914 1 0  that
+: 917 2 0  there's
+: 922 1 0  no
+: 924 1 0  way
+: 926 2 0  to
+: 930 2 0  hide
+: 934 5 0  it
+- 940
+: 942 1 0 Now
+: 944 1 0  all
+: 946 1 0  the
+: 947 3 0  blood
+: 952 2 0  and
+: 955 3 0  pressure's
+: 960 2 0  ri
+: 964 6 0 sing
+- 971
+: 973 1 0 I
+: 975 1 0  can
+: 976 1 0  feel
+: 979 2 0  the
+: 983 5 0  thun
+: 989 19 0 der
+- 1011
+: 1013 1 0 Run
+: 1015 1 0 ning
+: 1016 1 0  through
+: 1018 1 0  my
+: 1020 1 0  veins
+- 1021
+: 1022 3 0 Run
+: 1027 1 0 ning
+: 1028 1 0  through
+: 1030 1 0  my
+: 1032 1 0  veins
+- 1033
+: 1034 3 0 I
+: 1038 1 0  can
+: 1040 1 0  feel
+: 1042 1 0  the
+: 1044 8 0  thun
+: 1053 18 0 der
+- 1072
+: 1074 1 0 To
+: 1076 12 0 night
+- 1089
+: 1091 1 0 To
+: 1093 12 0 night
+- 1106
+: 1108 1 0 When
+: 1110 1 0  dark
+: 1112 14 0 ness
+: 1128 8 0  strikes
+- 1137
+: 1139 1 0 And
+: 1141 1 0  all
+: 1143 4 0  the
+: 1149 7 0  hearts
+: 1158 5 0  ig
+: 1164 6 0 nite
+- 1171
+: 1173 1 0 I
+: 1174 1 0  can
+: 1176 3 0  feel
+: 1181 2 0  the
+: 1185 5 0  thun
+: 1191 16 0 der
+- 1208
+: 1210 1 0 Run
+: 1212 1 0 ning
+: 1214 1 0  through
+: 1215 1 0  my
+: 1218 1 0  veins
+- 1219
+: 1219 8 0 I'm
+: 1230 1 0  the
+: 1233 1 0  heart
+: 1235 2 0  of
+: 1239 1 0  the
+: 1240 1 0  hur
+: 1242 5 0 ri
+: 1249 1 0 cane
+- 1250
+: 1250 4 0 Fol
+: 1254 2 0 low
+: 1257 11 0  me,
+: 1276 1 0  res
+: 1279 1 0 cue
+: 1281 22 0  me
+- 1306
+: 1308 2 0 Come
+: 1312 1 0  with
+: 1315 5 0  me
+: 1322 1 0  to
+: 1324 1 0  ne
+: 1326 4 0 ver
+: 1332 1 0  let
+: 1334 4 0  me
+: 1339 1 0  go
+- 1349
+: 1368 8 0 Mel
+: 1378 3 0 ting
+: 1383 16 0  minds
+: 1405 3 0  ins
+: 1409 1 0 tinc
+: 1411 1 0 tiv
+: 1413 19 0 ely
+- 1437
+: 1439 1 0 Uni
+: 1441 3 0 ted
+: 1446 7 0  in
+: 1454 3 0  the
+: 1458 1 0  the
+: 1459 1 0  cen
+: 1461 2 0 ter
+: 1461 36 0  storm
+: 1465 2 0  of
+- 1486
+: 1583 1 0 I
+: 1584 1 0  can
+: 1586 1 0  feel
+: 1589 4 0  the
+: 1595 4 0  thun
+: 1601 16 0 der
+- 1620
+: 1622 1 0 Run
+: 1623 1 0 ning
+: 1625 1 0  through
+: 1627 2 0  my
+: 1630 10 0  veins
+- 1645
+: 1647 1 0 I
+: 1648 1 0  can
+: 1651 1 0  feel
+: 1653 4 0  the
+: 1658 4 0  thun
+: 1663 18 0 der
+- 1682
+: 1684 1 0 To
+: 1686 17 0 night
+- 1712
+: 1716 3 0 When
+: 1721 6 0  dark
+: 1729 6 0 ness
+: 1737 5 0  stri
+: 1744 2 0 kes
+- 1747
+: 1749 1 0 And
+: 1751 1 0  all
+: 1753 4 0  the
+: 1758 3 0  hearts
+: 1763 5 0  ig
+: 1769 9 0 nite
+- 1779
+: 1781 1 0 I
+: 1783 1 0  can
+: 1785 1 0  feel
+: 1787 2 0  the
+: 1793 4 0  thun
+: 1799 15 0 der
+- 1817
+: 1819 1 0 Run
+: 1821 1 0 ning
+: 1823 1 0  through
+: 1825 1 0  my
+: 1827 9 0  veins
+- 1838
+: 1840 1 0 I'm
+: 1842 1 0  the
+: 1844 1 0  heart
+: 1847 1 0  of
+: 1848 1 0  the
+: 1850 1 0  hur
+: 1852 1 0 ri
+: 1854 16 0 cane
+E
