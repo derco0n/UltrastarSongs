@@ -12,7 +12,7 @@ You may need a tool like yt-dlp (https://github.com/yt-dlp/yt-dlp):
 
 The following linux-commands might come in handy for this:
 
-- `yt-dlp--audio-quality 0 --audio-format mp3 --recode-video mp4 -v <VIDEO-URL>`
+- `yt-dlp --audio-quality 0 --audio-format mp3 --recode-video mp4 -v <VIDEO-URL>`
 - `ffmpeg -i /path/to/downloaded/video.avi /path/to/target/audio.mp3`
 
 Furthermore you can create own songs using sites like:
